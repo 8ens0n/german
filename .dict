@@ -1,0 +1,1710 @@
+21a7cdcccabc89252578c2c52a4d5097:
+  type: das
+  word: Arbeitsklima
+  translation:
+  - work environment
+  - working atmosphere
+  - work atmosphere
+  - work climate
+  eg_de: []
+  eg_en: []
+  tag:
+  - b12w1
+5418f27762bcbc2429f8c5273bd6863d:
+  type: die
+  word: Voraussetzung
+  translation:
+  - condition
+  - prerequisite
+  - requirement
+  - precondition
+  - requisite
+  - assumption
+  eg_de:
+  - Der Vertrag ist nur unter bestimmten Voraussetzungen gültig.
+  - 'Spanischkenntnisse sind eine Voraussetzung für diesen Kurs. '
+  - Meine Schwester hat alle Voraussetzungen für das Stipendium erfüllt.
+  - Hochwertiges Material ist eine Voraussetzung für erstklassige Produkte.
+  - Der Kandidat erfüllte alle Voraussetzungen.
+  - Die Theorie beruht auf einfachen Voraussetzungen.
+  eg_en:
+  - The contract is only valid under certain conditions.
+  - 'Knowledge of Spanish is a prerequisite for this class. '
+  - My sister has met all the requirements for the scholarship.
+  - High-quality material is a precondition for first-class products.
+  - The candidate fulfilled all the requisites.
+  - The theory is based on simple assumptions.
+  tag:
+  - b12w1
+56117b2fa9ebd3ce99dffa010e032ef4:
+  type: die
+  word: Sicherheit
+  translation:
+  - security
+  - safety
+  - guarantee
+  - reliability
+  - collateral
+  - certainty
+  - surety
+  eg_de:
+  - Sicherheit ist wichtig, also schließe ich die Tür ab.
+  - Ihre Freundlichkeit gab mir ein Gefühl von Sicherheit.
+  - Die Sicherheit von Fluggästen ist unsere Priorität.
+  - Die Polizei ist für die Aufrechterhaltung der Sicherheit und Ordnung zuständig.
+  - Die Marke ist für ihre Qualität und Sicherheit bekannt.
+  - Ohne die nötige Sicherheit ist es schwer, ein Darlehen zu bekommen.
+  - Ich kann mit Sicherheit sagen, dass Sie mit dem Produkt zufrieden sein werden.
+  - Sie mussten eine große Summe als Sicherheit hinterlegen.
+  eg_en:
+  - Security is important, so I am locking the door.
+  - Her kindness gave me a sense of security.
+  - The safety of passengers is our priority.
+  - The police are responsible for maintaining safety and order.
+  - The brand is known for its quality and reliability.
+  - Without the proper collateral it is hard to get a loan.
+  - I can say with certainty that you will be satisfied with the product.
+  - They had to provide a large sum as surety.
+  tag:
+  - b12w1
+9e9f5ee3503b64484158d2f61b061e44:
+  type: die
+  word: Kenntnisse
+  translation:
+  - knowledge
+  - skills
+  eg_de:
+  - In der Schule erlangte ich viele Kenntnisse.
+  - Für die Durchführung dieser Aufgabe werden spezielle Kenntnisse benötigt.
+  - Er hat viele seiner Kenntnisse an der Universität erworben.
+  eg_en:
+  - I acquired a lot of knowledge at school.
+  - Special knowledge is needed for the accomplishment of this task.
+  - He acquired many of his skills at university.
+  tag:
+  - b12w1
+f9b99208f7082c83a31a93ba31fddd1d:
+  type: verb
+  word: jammern
+  translation:
+  - moan
+  - complain
+  - lament
+  - whine
+  - grouse
+  eg_de:
+  - Mein Sohn jammert immer, wenn er ins Bett gehen muss.
+  - Meine kleine Tochter jammert, wenn sie Hunger hat.
+  - Der Patient jammerte über die Wartezeit.
+  eg_en:
+  - My son always complains when he has to go to bed.
+  - My little daughter whines when she is hungry.
+  - The patient groused about the wait.
+  tag:
+  - b12w1
+e9169eaf2d9ac101174aea24ffb9d7d8:
+  type: die
+  word: Herausforderung
+  translation:
+  - challenge
+  - dare
+  eg_de:
+  - Der Sportler nahm die Herausforderung an und gewann das Rennen.
+  - Seine größte Herausforderung bisher war es, einen Marathon zu laufen.
+  - Hundeerziehung ist oft eine echte Herausforderung.
+  - Ich suche eine neue Herausforderung, da meine derzeitige Arbeit ziemlich langweilig
+    ist.
+  - Die Meisterschaft zu gewinnen ist eine große Herausforderung.
+  - Der Junge akzeptierte die Herausforderung, ins Wasser zu springen.
+  eg_en:
+  - The athlete took up the challenge and won the race.
+  - 'His biggest challenge so far was running a marathon. '
+  - Dog training is often a real challenge.
+  - I am looking for a new challenge as my current job is rather boring.
+  - Winning the championship is a big challenge.
+  - The boy accepted the dare to jump into the water.
+  tag:
+  - b12w1
+b93b5788e3fab39538d98c74e789eff1:
+  type: verb
+  word: anbieten
+  translation:
+  - offer sth.
+  - offer sth. to sb.
+  - provide
+  - supply
+  - tender sth.
+  - serve
+  - tout sth.
+  eg_de:
+  - Der Gastgeber bot den Gästen etwas zu trinken und zu essen an.
+  - "Wir sollten wenigstens unsere Hilfe anbieten."
+  - Wir können eine vergleichbare Alternative anbieten.
+  - Das Sprachinstitut bietet Kurse für Anfänger an.
+  - Für dieses Produkt wird keine technische Unterstützung mehr angeboten.
+  - Ich bot heute Morgen meinen Rücktritt an.
+  - Es gibt eine schöne urige Wirtschaft in diesem Dorf, die regionale Speisen anbietet.
+  - Die Firma bot ihre Produkte auf der Messe an.
+  eg_en:
+  - 'The host offered the guests food and drink. '
+  - We should offer our help at the least.
+  - We can offer a comparable alternative.
+  - The language institute provides courses for beginners.
+  - Technical support is no longer supplied for this product.
+  - I tendered my resignation this morning.
+  - This village has a lovely, old-fashioned restaurant that serves regional dishes.
+  - The company touted its products at the trade fair.
+  tag:
+  - b12w1
+727566a390f84fd8451a9dfb04f57078:
+  type: das
+  word: Gehalt
+  translation:
+  - salary
+  - pay
+  - wage
+  - stipend
+  eg_de:
+  - Die Firma bietet ein gutes Gehalt und Nebenleistungen.
+  - Ihr Gehalt stieg nach der Probezeit.
+  - Die Schule erhöhte das Gehalt aller Lehrer pauschal.
+  - 'Die neue Position bedeutet mehr Verantwortlichkeit und ein höheres Gehalt. '
+  - Lehrern wird ein monatliches Gehalt gezahlt.
+  eg_en:
+  - 'The company offers a good salary and fringe benefits. '
+  - Her salary increased after probation.
+  - The school raised the pay of all teachers across the board.
+  - 'The new position means more responsibility and a higher wage. '
+  - Teachers are paid a monthly stipend.
+  tag:
+  - b12w1
+8df9032d7783f28e68e1832154d82fe1:
+  type: das
+  word: Einkommen
+  translation:
+  - income
+  - revenue
+  eg_de:
+  - Dank einer Beförderung ist mein monatliches Einkommen gestiegen.
+  - Wer Geld verdient, muss Steuern auf sein Einkommen zahlen.
+  - Steuern werden auf das Einkommen erhoben.
+  eg_en:
+  - Thanks to a promotion, my monthly income has increased.
+  - People who earn money have to pay taxes on their income.
+  - Taxes are charged on revenue.
+  tag:
+  - b12w1
+95c9c83b47baf519a1718a0e311b852e:
+  type: adv
+  word: beruflich
+  translation:
+  - professionally
+  eg_de: []
+  eg_en: []
+  tag:
+  - b12w1
+fc60098c4da222f141f8ef9caae0c8fd:
+  type: die
+  word: Aufstiegschance
+  translation:
+  - opportunity for promotion
+  - career advancement opportunity
+  - opportunity for advancement
+  eg_de: []
+  eg_en: []
+  tag:
+  - b12w1
+0ddbdc335cfe847c029bef4981a819a9:
+  type: die
+  word: Aufforderung
+  translation:
+  - request
+  - invitation
+  - solicitation
+  - prompt
+  eg_de:
+  - Die Gäste folgten der Aufforderung, sich zu setzen.
+  - Der Brief enthielt eine Aufforderung für Spenden.
+  - 'Ich erhielt eine Aufforderung zum Speichern der Datei.  '
+  eg_en:
+  - The guests followed the invitation to sit down.
+  - The letter contained a solicitation for donations.
+  - I got a prompt to save the file.
+  tag:
+  - b12w2
+fbe3c75158d30d7edf415324c315af5a:
+  type: die
+  word: Anerkennung
+  translation:
+  - recognition
+  - respect
+  - appreciation
+  - acknowledgment
+  eg_de:
+  - Die Anerkennung seiner Arbeit ist ihm sehr wichtig.
+  - Nach langem Ringen um Anerkennung hatte die Gruppe endlich Erfolg.
+  - Der Lehrer hat sich die Anerkennung seiner Schüler verdient.
+  - Das Unternehmen zeigt große Anerkennung für die Mitwirkung seiner Arbeitnehmer.
+  - Seine Beförderung ist eine Anerkennung für seine gute Arbeit.
+  - Der Preis war eine wohlverdiente Anerkennung für ihre Arbeit.
+  eg_en:
+  - The recognition of his work is very important to him.
+  - After a long struggle for recognition, the group finally succeeded.
+  - The teacher has earned his students' respect.
+  - The company shows great appreciation for its employees' contributions.
+  - His promotion is an acknowledgement of his great work.
+  - The award was a well-deserved acknowledgment for her work.
+  tag:
+  - b12w1
+a420af77777cb8a8f0ed96f8053a651e:
+  type: adj
+  word: ermüdend
+  translation:
+  - tiring
+  - tedious
+  eg_de:
+  - Manuelle Arbeit kann ermüdend sein.
+  eg_en:
+  - Manual work can be tedious.
+  tag:
+  - b12w1
+215c45c1e88cb4291b85c960d9f038ee:
+  type: adj
+  word: gefährlich
+  translation:
+  - dangerous
+  - hazardous
+  - risky
+  - perilous
+  eg_de:
+  - Achtung! Hier ist es gefährlich!
+  - Crack ist eine der gefährlichsten Drogen.
+  - Minenarbeiter arbeiten unter gefährlichen Bedingungen.
+  - Es kann gefährlich sein, in einem Fluss zu schwimmen.
+  - Freeclimbing ist ein gefährlicher Sport.
+  eg_en:
+  - Watch out! It is dangerous here!
+  - Crack is one of the most dangerous drugs.
+  - Miners work in hazardous conditions.
+  - Swimming in a river can be risky.
+  - Freeclimbing is a perilous sport.
+  tag:
+  - b12w1
+ba82e5759e25934ec83431eedb420414:
+  type: adj
+  word: schwer
+  translation:
+  - difficult
+  - hard
+  - serious
+  - heavy
+  - severe
+  - bad
+  - rich
+  - hefty
+  eg_de:
+  - Es gab ein paar schwere Übungen bei den Hausaufgaben.
+  - Heikle Themen sind schwer zu besprechen.
+  - Gartenarbeit ist manchmal schwer, aber es macht mir Spaß.
+  - 'Es ist schwer, Tapeten von einer Wand abzuziehen. '
+  - Der Sicherheitsgurt verhindert schwere Verletzungen bei Unfällen.
+  - Das Buch ist sehr dick und schwer.
+  - Es kostete viel, die schweren Schäden am Haus zu reparieren.
+  - Ich bin nicht anfällig für schwere Erkältungen.
+  - Ich fand das Essen zu schwer.
+  - Das Unternehmen meldete einen schweren Verlust.
+  eg_en:
+  - There were some difficult exercises in the homework.
+  - Sensitive issues are difficult to discuss.
+  - Gardening can be hard work, but I enjoy it.
+  - 'It is hard to strip wallpaper off a wall. '
+  - The seat belt prevents serious injuries in accidents.
+  - The book is very thick and heavy.
+  - It cost a lot to fix the severe damage to the house.
+  - I am not prone to bad colds.
+  - I found the meal too rich.
+  - The company reported a hefty loss.
+  tag:
+  - b12w1
+d8318693f5dc633956d766a3593360d1:
+  type: adj
+  word: verschieden
+  translation:
+  - different
+  - various
+  - diverse
+  - distinct
+  - sundry
+  eg_de:
+  - 'Die Geschwister sind sehr verschieden: der eine ist fröhlich, der andere sehr
+    ruhig.'
+  - Ich mag verschiedene Arten von Musik.
+  - Man kann aus verschiedenen Speisen auf der Karte auswählen.
+  - Er kann verschiedene Dialekte nachahmen.
+  - Der Künstler verwendete für seine Skulpturen verschiedene Materialien.
+  - Der menschliche Körper hat viele verschiedene Arten von Zellen.
+  - Das Dessert enthielt verschiedene Sorten Obst.
+  eg_en:
+  - 'The siblings are very different: one is cheerful, the other one is very calm.'
+  - I like different types of music.
+  - You can choose from various dishes on the menu.
+  - He can mimic various dialects.
+  - The artist used diverse materials for his sculptures.
+  - The human body has many distinct cell types.
+  - The dessert included sundry types of fruit.
+  tag:
+  - b12w1
+70f9bf57ef9857dd891ff84d0f9bd9fd:
+  type: verb
+  word: genießen
+  translation:
+  - enjoy sth.
+  - savor
+  - relish sth.
+  eg_de:
+  - Wir liegen am Strand und genießen die Sonne.
+  - Er genoss seinen nachmittäglichen Imbiss.
+  - Es ist wichtig, das Leben zu genießen.
+  - 'Ich werde jeden Bissen dieser Torte genießen. '
+  - Man muss den Moment genießen können.
+  eg_en:
+  - We are lying on the beach and enjoying the sunshine.
+  - He enjoyed his afternoon snack.
+  - It is important to enjoy life.
+  - 'I will savor every bite of this cake. '
+  - You have to be able to relish the moment.
+  tag:
+  - b12w1
+562c2a0f16da2a9d54f17c5df8616d9d:
+  type: adj
+  word: niedrig
+  translation:
+  - low
+  - low-rise
+  eg_de:
+  - Dank dieser Initiativen hat die Stadt jetzt eine sehr niedrige Kriminalitätsrate.
+  - Konsumenten erwarten gute Qualität und niedrige Preise.
+  - Das Wohngebiet besteht aus niedrigen Gebäuden.
+  eg_en:
+  - Thanks to these initiatives the town now has a very low crime rate.
+  - Consumers expect high quality and low prices.
+  - The residential area is made up of low-rise buildings.
+  tag:
+  - b12w1
+e58819ee093a5fcd15716d0871247cca:
+  type: verb
+  word: kennenlernen
+  translation:
+  - discover sth.
+  - get to know sb.
+  eg_de: []
+  eg_en: []
+  tag:
+  - b12w1
+3a8589171700798a74e97f650b3bc69e:
+  type: verb
+  word: retten
+  translation:
+  - save
+  - rescue
+  - salvage
+  eg_de:
+  - Der Mann rettete das Kind vor dem Ertrinken.
+  - Die frühzeitige Erkennung von Erkrankungen kann Leben retten.
+  - Die Küstenwache rettete die Besatzung.
+  - Die plötzliche Unterbrechung rettete die Situation.
+  eg_en:
+  - The man saved the child from drowning.
+  - The early detection of diseases can save lives.
+  - The coastguard rescued the crew.
+  - The sudden interruption salvaged the situation.
+  tag:
+  - b12w1
+e6c8f33bd0e6c0f6684ca008632d634e:
+  type: die
+  word: Jugendlichen
+  translation:
+  - youngster
+  - young people
+  - adolescents
+  eg_de:
+  - Die Jugendlichen hängen gern im Einkaufszentrum herum.
+  - Diese Veranstaltung ist für Kinder und Jugendliche, weniger für Erwachsene.
+  eg_en:
+  - The youngsters like to hang out at the mall.
+  - This event is for children and young people, less for adults.
+  tag:
+  - b12w1
+db4f571a5a2ba1404ff262fe5516b5ca:
+  type: verb
+  word: umziehen
+  translation:
+  - migrate
+  - move house
+  - relocate
+  eg_de:
+  - Als ich eine neue Stelle bekam, mussten wir umziehen.
+  eg_en:
+  - We had to relocate when I got a new job.
+  tag:
+  - b12w1
+3f59bc45fad4dfd478510c87ce3ac155:
+  type: adj
+  word: vereinbar
+  translation:
+  - compatible
+  eg_de:
+  - Die neuen Richtlinien sind mit bestehenden Abläufen vereinbar.
+  eg_en:
+  - The new guidelines are compatible with existing procedures.
+  tag:
+  - b12w1
+027bb529f3023649577795d3ccf3b037:
+  type: verb
+  word: übernehmen
+  translation:
+  - undertake
+  - assume
+  - take
+  - accept
+  - take sth. on
+  - take over sth.
+  - novate
+  - incur
+  eg_de:
+  - Der Geschäftsführer übernahm die Verantwortung für den Fehler.
+  - Der Veranstaltungsort übernimmt keine Verantwortung für verlorene Gegenstände.
+  - Er übernahm den Job, der ihm angeboten wurde.
+  - Das Hotel übernimmt keine Haftung für verlorene Gegenstände.
+  - Ich fühle mich bereit, neue Aufgaben zu übernehmen.
+  - 'Ich freue mich darauf, an meinem Arbeitsplatz neue Aufgaben zu übernehmen.  '
+  - Meine Firma übernahm die Verantwortung für die Veranstaltung.
+  - Das Unternehmen wird seinen kleineren Konkurrenten übernehmen.
+  - Die Firma wurde von einem großen Konzern übernommen.
+  - Der Vertrag wurde von einer dritten Partei übernommen.
+  - Die Firma wird die Versandkosten übernehmen.
+  eg_en:
+  - The managing director assumed responsibility for the error.
+  - The venue does not assume liability for lost goods.
+  - He took the job that was offered to him.
+  - The hotel accepts no liability for lost items.
+  - I feel ready to take on new tasks.
+  - I am looking forward to taking on new duties at my workplace.
+  - My company undertook responsibility for the event.
+  - The company will take over its smaller competitor.
+  - The firm was taken over by a large group.
+  - The contract was novated by a third party.
+  - 'The company will incur dispatch costs. '
+  tag:
+  - b12w1
+4c4fe79f2d01ab95d116dd0c7714f6b4:
+  type: die
+  word: Wahl
+  translation:
+  - choice
+  - election
+  - option
+  - vote
+  - poll
+  eg_de:
+  - Ich verlor die Wette aufgrund meiner unglücklichen Wahl.
+  - Unerwartet hält das Land vorgezogene Wahlen ab.
+  - Der Amtsinhaber könnte die Wahlen wieder gewinnen.
+  - Alle nominierten Kandidaten werden zur Wahl gestellt.
+  - Die Wahl wird entscheiden, wer der nächste Präsident sein wird.
+  eg_en:
+  - I lost the bet due to my unfortunate choice.
+  - Unexpectedly, the country is holding early elections.
+  - The incumbent might win the elections again.
+  - All the nominated candidates will be put to the vote.
+  - The poll will decide who the next president will be.
+  tag:
+  - b12w1
+5b64890b12b7ca9f7ef82a3d61a01e61:
+  type: die
+  word: Anzeige
+  translation:
+  - advertisement
+  - display
+  - notification
+  - ad
+  - visual display
+  eg_de:
+  - Die Anzeige des Navigationsgeräts sollte auf Augenhöhe angebracht sein.
+  - Ich habe Anzeigen in Zeitschriften und Zeitungen gesetzt.
+  - Ich habe über eine Anzeige in der Zeitung ein Auto gekauft.
+  - Er gab eine Anzeige in der Zeitung auf.
+  - Die Benachrichtigung wird auf der Anzeige erscheinen.
+  eg_en:
+  - The display of the navigation system should be mounted at eye level.
+  - I placed advertisements in journals and newspapers.
+  - I bought a car through an ad in the paper.
+  - He posted an ad in the newspaper.
+  - The notification will show up on the visual display.
+  tag:
+  - b12w1
+3a861d7ca7585556fa39c8b05141a005:
+  type: adj
+  word: schief
+  translation:
+  - lopsided
+  - crooked
+  - skew
+  - wonky
+  - wry
+  eg_de:
+  - Schiefe Zähne können leicht korrigiert werden.
+  - Dreiecke bestehen aus schiefen Linien.
+  - Das alte Haus hat schiefe Wände.
+  - Sie fand sein schiefes Lächeln liebenswert.
+  eg_en:
+  - Crooked teeth can easily be corrected.
+  - Triangles consist of skew lines.
+  - The old house has wonky walls.
+  - She thought his wry smile was adorable.
+  tag:
+  - b12w1
+62a91569572c56591624d19f5147e437:
+  type: die
+  word: Gardinenstange
+  translation:
+  - curtain rod
+  - curtain rail
+  eg_de: []
+  eg_en: []
+  tag:
+  - b12w1
+543656f8aaf63254807e3c3fb13aaa3f:
+  type: der
+  word: Rasenmäher
+  translation:
+  - mower
+  - lawn mower
+  - lawnmower
+  eg_de:
+  - Ich lasse meinen Rasenmäher jedes Jahr warten.
+  eg_en:
+  - I get my lawnmower serviced every year.
+  tag:
+  - b12w1
+c3c5f842b6d3c049d70930f1f5c647a6:
+  type: adj
+  word: sauber
+  translation:
+  - clean
+  - tidy
+  - neat
+  - legit
+  eg_de:
+  - 'Ich versuche, meine Schürze beim Kochen sauber zu halten. '
+  - Er trägt einen Kittel, damit seine Kleidung sauber bleibt.
+  eg_en:
+  - 'I try to keep my apron clean during cooking. '
+  - He wears an overall to keep his clothes clean.
+  tag:
+  - b12w1
+33f003e7bb2aac27964dc0c7b6faff40:
+  type: adj
+  word: preiswert
+  translation:
+  - inexpensive
+  - cheap
+  - affordable
+  eg_de:
+  - Reis ist sowohl nahrhaft als auch preiswert.
+  - Das Geschäft bietet preiswerte Produkte an.
+  eg_en:
+  - Rice is both nourishing and inexpensive.
+  - The shop offers affordable products.
+  tag:
+  - b12w1
+a46cde3e2edc7799e896d61ce881e54b:
+  type: verb
+  word: laufen
+  translation:
+  - run
+  - walk
+  - work
+  - go
+  - go on
+  - be in progress
+  eg_de:
+  - Ich musste heute Morgen richtig schnell laufen, um den Bus noch zu erwischen.
+  - Dieses Kraftwerk läuft mit Biogas.
+  - Er lief so schnell, dass ich kaum mit ihm Schritt halten konnte.
+  - Meine Katze lief über den nassen Zement und hinterließ einen Abdruck.
+  - Der Motor läuft mit voller Leistung.
+  - Die Ausführung des Plans lief wie erwartet.
+  - Es läuft alles nach Plan.
+  - Das Gerichtsverfahren lief über Jahre und kostete ein Vermögen.
+  - Man darf das Studio nicht betreten, während eine Aufnahme läuft.
+  eg_en:
+  - I had to run really fast to catch the bus this morning.
+  - This power plant runs on biogas.
+  - He walked so fast I found it hard to keep up with him.
+  - My cat walked over the wet cement and left an imprint.
+  - The motor is working at full capacity.
+  - The execution of the plan went as expected.
+  - Everything is going according to plan.
+  - The lawsuit went on for years and cost a fortune.
+  - You cannot enter the studio while a recording is in progress.
+  tag:
+  - b12w1
+fb38dc65a996d206cebc604053ed9965:
+  type: die
+  word: Baufirma
+  translation:
+  - construction company
+  eg_de:
+  - Die Baufirma verkauft schlüsselfertige Häuser.
+  - Die Baufirma reichte eine Submission für das Projekt ein.
+  eg_en:
+  - The construction company sells turnkey houses.
+  - The construction company submitted a tender for the project.
+  tag:
+  - b12w1
+3b28d65846a1fa0598704335dd662bad:
+  type: die
+  word: Pleite
+  translation:
+  - bankruptcy
+  - collapse
+  - bust
+  eg_de:
+  - Ihr Einfallsreichtum hat das Unternehmen vor der Pleite bewahrt.
+  - 'Leider war meine letzte Investition eine Pleite. '
+  eg_en:
+  - Her ingenuity saved the company from bankruptcy.
+  - 'Unfortunately, my latest investment was a bust. '
+  tag:
+  - b12w1
+bd5df5f4b4c5be03473d9d85b133a640:
+  type: das
+  word: Werkzeug
+  translation:
+  - tool
+  - tools
+  - instrument
+  - implement
+  eg_de:
+  - Man braucht ein spezielles Werkzeug, um diese Kiste zu öffnen.
+  - Meine Werkzeuge liegen auf der Arbeitsfläche.
+  - Für Präzisionsarbeit sind geeignete mechanische Werkzeuge erforderlich.
+  - Der Tischler benutzt verschiedene Werkzeuge, um Holz zu bearbeiten.
+  eg_en:
+  - You need a special tool to open this box.
+  - My tools are lying on the bench.
+  - For precision work, suitable mechanical instruments are necessary.
+  - The carpenter uses various implements to work wood.
+  tag:
+  - b12w1
+f3000317af3e4cf4a3c0f986dffde316:
+  type: der
+  word: Mut
+  translation:
+  - courage
+  eg_de:
+  - 'Es erfordert Mut, neue Dinge auszuprobieren. '
+  - So ein gewagtes Unternehmen erfordert viel Mut.
+  eg_en:
+  - 'It takes courage to try new things. '
+  - Such a daring undertaking requires a lot of courage.
+  tag:
+  - b12w1
+2d6b2e40a60812cd2910da9055c186e3:
+  type: verb
+  word: anpacken
+  translation:
+  - tackle
+  - tackle sth.
+  eg_de: []
+  eg_en: []
+  tag:
+  - b12w1
+31b1e0881e158f9f1fa14bb192c27b48:
+  type: verb
+  word: verstehen
+  translation:
+  - understand
+  - know
+  - see
+  - get (sth.)
+  - recognize
+  - comprehend
+  - grasp
+  - apprehend sth.
+  eg_de:
+  - Die Schüler konnten die neue Lehrerin viel besser verstehen.
+  - 'Ich verstehe das überhaupt nicht. '
+  - Sie versteht etwas vom Kochen.
+  - Nach ihrer Erklärung habe ich verstanden, was sie meinte.
+  - Nachdem sie es nochmals erklärt hatte, verstand ich es endlich.
+  - Es ist wichtig zu verstehen, dass das eigene Handeln Folgen hat.
+  - Ich versuchte, die Einstellung meines Bruders zu verstehen.
+  - Sie verstand das mathematische Problem schnell.
+  - Ich kann nicht verstehen, was die ganze Aufregung soll.
+  eg_en:
+  - The pupils could understand the new teacher much better.
+  - 'I do not understand this at all. '
+  - She knows how to cook.
+  - After her explanation, I saw what she meant.
+  - After she had explained it again, I finally got it.
+  - It is important to recognize that our actions have consequences.
+  - I tried to comprehend my brother's attitude.
+  - She quickly grasped the mathematical problem.
+  - I cannot apprehend what all the fuss is about.
+  tag:
+  - b12w1
+28530944c6cb543a09b58b214ac49b17:
+  type: die
+  word: Beratung
+  translation:
+  - advice
+  - consultation
+  - consultancy
+  - counselling
+  - consulting
+  - guidance
+  - consulting service
+  - counseling
+  - counsel
+  eg_de:
+  - Das Consultingunternehmen bietet ausgezeichnete Beratung.
+  - 'Unsere Experten können Ihnen eine fundierte Beratung anbieten. '
+  - Das Gericht zog sich zur Beratung zurück.
+  - 'Ich muss herausfinden, was die Gebühr für eine Beratung ist. '
+  - Beratung ist eine der Dienstleistungen, die der Wirtschaftsprüfer anbietet.
+  - Unsere juristische Beratung ist kostenlos und vertraulich.
+  - Die Firma bietet Beratung und technische Unterstützung.
+  - Wenn du Beratung brauchst, kannst du deinen Mentor fragen.
+  - 'Die Firma bietet all ihren Kunden Beratungen an. '
+  - Studenten können Beratung in Anspruch nehmen.
+  - Der Sozialdienst bietet Beratung für Hilfesuchende.
+  eg_en:
+  - The consulting firm offers excellent advice.
+  - 'Our experts can offer you sound advice. '
+  - The court retired for consultation.
+  - 'I need to find out what the rate for a consultation is. '
+  - Consultancy is one of the services offered by the auditor.
+  - Our legal counselling is free and confidential.
+  - "The company offers consulting and technical support."
+  - If you need guidance, you can ask your mentor.
+  - 'The firm offers consulting services to all of its customers. '
+  - Students can make use of counseling.
+  - The social service office provides counsel for people seeking help.
+  tag:
+  - b12w1
+330ad80520bd879d9d133a28d7ca16d3:
+  type: verb
+  word: anfangen
+  translation:
+  - start
+  - start sth.
+  - begin sth.
+  - do
+  - get started
+  - start off
+  eg_de:
+  - Der Lärm hörte so plötzlich auf, wie er angefangen hatte.
+  - Mist! Jetzt muss ich wieder von vorne anfangen.
+  - Wir suchten unter einem Vordach Schutz, als der Regen anfing.
+  - Er beschloss, unter einem Baum Schutz zu suchen, als es zu regnen anfing.
+  - Sie wird im Sommer ein Praktikum im Zoo anfangen.
+  - Wenn ich einmal angefangen habe, kann mich nichts mehr aufhalten.
+  - Wir fingen mit einer Zusammenfassung der letzten Sitzung an.
+  eg_en:
+  - The noise ceased as suddenly as it had started.
+  - Bother! Now I have to start again from scratch.
+  - We sheltered under a canopy when the rain began.
+  - He decided to seek shelter under a tree when it began to rain.
+  - She will do an internship at the zoo this summer.
+  - Once I get started, nothing can stop me.
+  - We started off with a summary of the last meeting.
+  tag:
+  - b12w1
+2a043732efb336c58a0192875265fb3c:
+  type: die
+  word: Erziehung
+  translation:
+  - education
+  - upbringing
+  eg_de:
+  - Eine ausgezeichnete Erziehung ist wichtig für unsere Kinder.
+  - Durch ihre Erziehung wurde sie positiv und optimistisch.
+  eg_en:
+  - An excellent education is important for our children.
+  - Her upbringing made her positive and optimistic.
+  tag:
+  - b12w1
+5f33649bd8c31562f564548cef250a81:
+  type: verb
+  word: beschäftigen
+  translation:
+  - employ sb.
+  - engage sb.
+  eg_de:
+  - Unsere Firma beschäftigt Spezialisten aus aller Welt.
+  - Ich beschloss, eine Haushaltshilfe zu beschäftigen.
+  eg_en:
+  - Our company employs experts from all over the world.
+  - I decided to engage a domestic helper.
+  tag:
+  - b12w1
+b338fd1af54005bd0365b16d2234a28a:
+  type: verb
+  word: versorgen
+  translation:
+  - provide
+  - provide for sb.
+  - look after sb./sth.
+  - feed sb./sth.
+  - tend to
+  eg_de:
+  - Er versorgte seine Familie.
+  - Meine Familie versorgt mich mit Nahrung und Geld.
+  - Die Eltern versorgen ihre Kinder mit allem, was sie brauchen.
+  - Obst und Gemüse versorgen uns mit wichtigen  Vitaminen.
+  - Er versorgte seine Familie.
+  - 'Die meisten Länder sind auf importierte Waren angewiesen, um die Bevölkerung
+    zu versorgen. '
+  - Die Zirkustiere wurden unterwegs gut versorgt.
+  - Der Bauer versorgt seine Kühe mit Heu.
+  - Die Krankenschwester kam, um meine Wunden zu versorgen.
+  eg_en:
+  - He provided for his family.
+  - My family provides me with food and money.
+  - The parents provide their children with everything they need.
+  - Fruit and vegetables provide us with important vitamins.
+  - He provided for his family.
+  - 'Most countries rely on imported goods to provide for the population. '
+  - The circus animals were well looked after in transit.
+  - The farmer feeds his cows with hay.
+  - The nurse came to tend to my wounds.
+  tag:
+  - b12w8
+68e147142e5a78bd7538d7d9f13cc888:
+  type: adj
+  word: großartig
+  translation:
+  - great
+  - magnificent
+  - wonderful
+  - splendid
+  - terrific
+  - gorgeous
+  - amazing
+  - marvellous
+  - awesome
+  eg_de:
+  - Der berühmte Regisseur hat einige großartige Filme gemacht.
+  - Die Vorführung war großartig.
+  - Die Freiwilligen leisten großartige Arbeit.
+  - Die Aussicht war großartig, wunderschön.
+  - Mein Haus bietet einen großartigen Ausblick über das Meer.
+  - Von dem Hügel hatten wir einen großartigen Blick auf das Meer.
+  - Der Sonnenaufgang am Meer ist ein großartiger Anblick.
+  - Die Show war toll, einfach großartig.
+  - Es war großartig, alle wieder vereint zu sehen.
+  - Die Skyline von New York ist wirklich großartig.
+  eg_en:
+  - The famous director has made some great films.
+  - The show was magnificent.
+  - The volunteers are doing a wonderful job.
+  - The view was splendid, beautiful.
+  - My house offers a terrific view over the ocean.
+  - From the hill we had a gorgeous view at the sea.
+  - The sunrise over the ocean is an amazing sight.
+  - The show was great, simply amazing.
+  - It was marvellous seeing everyone reunited again.
+  - The skyline of New York is really awesome.
+  tag:
+  - b12w1
+354c2704bb5721c5109395d82e71dde7:
+  type: das
+  word: Geschirr
+  translation:
+  - dishes
+  - crockery
+  - tableware
+  - harness
+  eg_de:
+  - Ich habe das Geschirr und Besteck in die Spülmaschine geräumt.
+  - Mein Pferd braucht ein neues Geschirr.
+  eg_en:
+  - I put the crockery and cutlery into the dishwasher.
+  - My horse needs a new harness.
+  tag:
+  - b12w1
+938d482077e6571444a4b0476b1d52b1:
+  type: das
+  word: Besteck
+  translation:
+  - cutlery
+  - flatware
+  - silverware
+  eg_de:
+  - Ich legte das Besteck neben den Teller.
+  - Er räumte das Besteck in den Schrank ein.
+  - Das Besteck ist aus Edelstahl und rostet nicht.
+  - Ich deckte den Tisch mit Tellern, Gläsern und Besteck.
+  - 'Ich brachte die Teller und das Besteck ins Esszimmer. '
+  eg_en:
+  - I placed the cutlery next to the plate.
+  - He placed the cutlery in the cupboard.
+  - The cutlery is stainless steel and will not rust.
+  - I set the table with plates, glasses and flatware.
+  - 'I took the plates and silverware into the dining room. '
+  tag:
+  - b12w1
+dda96df3ec5a9c1da0b57f7ac68d6bc5:
+  type: das
+  word: Glas
+  translation:
+  - glass
+  - jar
+  eg_de:
+  - 'Glas wird aus Sand gemacht. '
+  - Sie goss Milch in das Glas.
+  - Gläser mit Marmelade und Eingemachtem stehen in der Speisekammer.
+  eg_en:
+  - 'Glass is made from sand. '
+  - She poured milk into the glass.
+  - Jars filled with jam and preserves are stored in the pantry.
+  tag:
+  - b12w1
+e038a0df612af6d326633e0c73b3bb2b:
+  type: verb
+  word: liefern
+  translation:
+  - deliver sth.
+  - supply sth.
+  - provide sth.
+  - furnish sth.
+  - consign sth.
+  eg_de:
+  - Das Unternehmen liefert Fahrzeuge und Ersatzteile für den amerikanischen Markt.
+  - Meine Firma liefert die Arbeitskräfte für viele Straßenbauprojekte.
+  - Das Handbuch liefert eine Beschreibung des Geräts.
+  - Der Artikel lieferte nützliche Hintergrundinformationen.
+  - Wir liefern jedes Paket innerhalb von fünf Arbeitstagen.
+  - Der Kurier hat das Paket geliefert.
+  - Der Kläger muss zusätzliche Beweise liefern.
+  - 'Eine Exportfirma liefert Waren an andere Länder.  '
+  eg_en:
+  - The company supplies vehicles and spare parts for the American market.
+  - My company supplies the manpower for many roadwork projects.
+  - The manual provides a description of the device.
+  - The article provided some useful background information.
+  - We can deliver any package within five working days.
+  - The courier delivered the package.
+  - The plaintiff has to furnish additional evidence.
+  - An export company consigns merchandise to other countries.
+  tag:
+  - b12w1
+e3c7e31a1247d153ca1516f70d74dba6:
+  type: die
+  word: Meinung
+  translation:
+  - opinion
+  - view
+  - mind
+  eg_de:
+  - Die Meinungen der Mitglieder meines Teams sind mir wichtig.
+  - 'Mein Chef mag keine abweichenden Meinungen. '
+  - 'Meine Schwester und ich haben verschiedene Meinungen zu diesem Thema. '
+  - Alle Teilnehmer können bei dem Treffen ihre Meinung sagen.
+  eg_en:
+  - The opinions of my team members are important to me.
+  - 'My boss does not like divergent opinions. '
+  - 'My sister and I have different views on this topic. '
+  - All participants can speak their mind at the meeting.
+  tag:
+  - b12w1
+2e084af80366bb02522bc069f7ccd576:
+  type: verb
+  word: verwenden
+  translation:
+  - use sth.
+  - apply
+  - utilize
+  - employ
+  eg_de:
+  - Er verwendete einen Computer, um seine Arbeit zu machen.
+  - Nachts macht man bessere Fotos, wenn man den Blitz verwendet.
+  - Zur Ortung verwenden wir Satelliten.
+  - 'Bor wird in vielen Reinigungsmitteln verwendet. '
+  - Er verwendete Salbe, um den Juckreiz zu lindern.
+  - Sie verwenden Solarenergie, um ihr Haus zu beheizen.
+  - Meine Firma verwendet die beste Technik, um die Produktion zu verbessern.
+  eg_en:
+  - He used a computer to do his work.
+  - You take better photos at night if you use the flash.
+  - We use satellites for localization.
+  - 'Boron is used in many detergents. '
+  - He applied ointment to ease the itchiness.
+  - They utilize solar power to heat their house.
+  - My company employs the best technology to enhance production.
+  tag:
+  - b12w1
+72429f43761b210d5659917a21d1f297:
+  type: verb
+  word: werben
+  translation:
+  - advertise
+  - recruit sb.
+  eg_de:
+  - Die Firma wirbt mit Flugblättern und Postern.
+  - Unser Sportteam möchte neue Mitglieder werben.
+  eg_en:
+  - The company advertises through leaflets and posters.
+  - Our sports team wants to recruit new members.
+  tag:
+  - b12w1
+827e9e2bb96bb683e740d280bb731aba:
+  type: das
+  word: Kissen
+  translation:
+  - cushion
+  - pillow
+  - pad
+  eg_de:
+  - Viele weiche Kissen liegen auf meinem Sofa.
+  - Die Kissen auf meinem Bett sind weich und flauschig.
+  - Mein Kissen ist sehr weich und flauschig.
+  - 'Ich schlafe gern auf weichen Kissen. '
+  - Das Kissen auf dem Stuhl ist feucht.
+  eg_en:
+  - Many soft cushions are on my sofa.
+  - The pillows on my bed are soft and fluffy.
+  - My pillow is very soft and fluffy.
+  - 'I like to sleep on soft pillows. '
+  - The pad on the chair is damp.
+  tag:
+  - b12w1
+387896d8150038b776cecbbe13bda1cd:
+  type: adj
+  word: essbar
+  translation:
+  - edible
+  eg_de:
+  - Viele Früchte sind essbar, aber manche sind giftig.
+  eg_en:
+  - Lots of fruits are edible, but some are poisonous.
+  tag:
+  - b12w1
+37e276f8f6b8e08aeacdc51a2484cfbd:
+  type: verb
+  word: erfüllen
+  translation:
+  - fulfill sth.
+  - fulfill
+  - satisfy sth.
+  - meet
+  - fulfil sth.
+  - comply
+  - comply with sth.
+  - perform sth.
+  - accomplish
+  - pervade
+  eg_de:
+  - Er hatte seine vertraglichen Pflichten erfüllt.
+  - Bewerber müssen bestimmte Anforderungen erfüllen.
+  - Die Produkte haben unsere Anforderungen erfüllt.
+  - Bewerber, die die Anforderungen erfüllen, haben eine gute Chance.
+  - Unsere Verfahrensweisen erfüllen die Vorschriften der Regierung.
+  - Diese Waren erfüllen alle gesetzlichen Bestimmungen.
+  - Unsere Verfahrensweisen erfüllen die Vorschriften der Regierung.
+  - Das Gerät erfüllt eine dreifache Funktion.
+  - Der Kandidat erfüllte alle Voraussetzungen.
+  - Die Produkte haben unsere Anforderungen erfüllt.
+  - Der Bewerber erfüllt alle unsere Voraussetzungen.
+  - Das Produkt erfüllt die Bedürfnisse der Kunden.
+  - Das Hotel erfüllt alle besonderen Wünsche der Gäste.
+  - Ich habe die Aufgabe jetzt erfüllt, alles ist erledigt.
+  - Ein Rosenduft erfüllte den Raum.
+  eg_en:
+  - He had met his contractual obligations.
+  - Applicants must meet certain requirements.
+  - The products fulfilled our requirements.
+  - Applicants who comply with the requirements stand a good chance.
+  - Our procedures comply with governmental regulations.
+  - 'These products comply with all legal stipulations. '
+  - Our procedures comply with governmental regulations.
+  - The device performs a threefold function.
+  - The candidate fulfilled all the requisites.
+  - The products fulfilled our requirements.
+  - The candidate fulfills all our requirements.
+  - The product satisfies the customers' needs.
+  - The hotel satisfies all special requests of its guests.
+  - I have now accomplished the task, everything is done.
+  - 'A smell of roses pervaded the room. '
+  tag:
+  - b12w1
+c6ca5ba869c9f236241bb7a6053d98ac:
+  type: verb
+  word: erreichen
+  translation:
+  - achieve sth.
+  - reach
+  - attain sth.
+  - accomplish
+  - gain
+  eg_de:
+  - Zusammen erreichen wir mehr als alleine.
+  - Ich muss mich bemühen, das Ziel des Projektes zu erreichen.
+  - Ich habe mir ein neues Ziel gesetzt, das ich erreichen möchte.
+  - Wir versuchten, das Dorf zu Fuß zu erreichen.
+  - Das Schiff erreichte den Hafen.
+  - Ich habe all meine Ziele erreicht.
+  - Mit harter Arbeit kann man viel erreichen.
+  - Der Erfinder erreichte weltweite Bekanntheit mit seiner Maschine.
+  eg_en:
+  - Together we can achieve more than alone.
+  - I must endeavour to achieve the goal of the project.
+  - I have set myself a new goal that I want to achieve.
+  - We tried to reach the village on foot.
+  - The vessel reached the port.
+  - I have attained all my aims.
+  - With hard work you can accomplish a lot.
+  - The inventor gained worldwide fame with his machine.
+  tag:
+  - b12w1
+ebdc48a8d44a5c371b57a1cf4cabe101:
+  type: das
+  word: Erreichen
+  translation:
+  - achievement
+  eg_de:
+  - Das Erreichen unserer Vision beginnt mit einer sorgfältigen Planung.
+  eg_en:
+  - The achievement of our vision starts with careful planning.
+  tag:
+  - b12w5
+e5116e07d3ddc124313c7a31a8f5235b:
+  type: das
+  word: Angebot
+  translation:
+  - offer
+  - offering
+  - tender
+  - supply
+  - quote
+  - range
+  - bid
+  - quotation
+  - proposal
+  - proposition
+  - bargain
+  - overture
+  eg_de:
+  - Ich habe das gute Angebot schnell angenommen.
+  - 'Ich habe das Angebot schriftlich erhalten, daher weiß ich, dass es gültig ist. '
+  - Ich akzeptiere das Angebot gerne.
+  - Alle Angebote inkludieren Steuern.
+  - Das Unternehmen reichte ein Angebot für das Bauprojekt ein.
+  - Das Angebot entspricht der Nachfrage nach dem Produkt.
+  - Ich bat bei drei verschiedenen Agenturen um ein Angebot, um die Preise zu vergleichen.
+  - Unser Laden bietet ein breites Angebot an Produkten.
+  - Der Verkäufer akzeptierte mein Angebot in Höhe von 50 Dollar.
+  - Wir waren mit dem Angebot zufrieden und erteilten einen Auftrag.
+  - Wir haben vom Kunden noch keine Antwort auf unser Angebot erhalten.
+  - 'Bitte geben Sie Ihren niedrigsten Preis an, wenn Sie ein Angebot einreichen. '
+  - Ich konnte ihr großzügiges Angebot, bei ihr zu wohnen, nicht annehmen.
+  - Die Reise ist das Angebot des Monats.
+  - Sein Angebot war der erste Schritt hin zu einem Friedensvertrag.
+  eg_en:
+  - I have quickly accepted the good offer.
+  - 'I received the offer in writing, so I know it is valid. '
+  - I am happy to accept the offer.
+  - All offerings include taxes.
+  - The company submitted a tender for the construction project.
+  - The supply meets the demand for the product.
+  - I asked for a quote from three different agencies to compare prices.
+  - Our shop offers a wide range of products.
+  - The seller accepted my bid of 50 dollars.
+  - We were satisfied with the quotation and placed an order.
+  - We have not yet received a response to our proposal from the client.
+  - Please quote your lowest price when submitting a proposal.
+  - I could not accept her generous proposition to stay with her.
+  - The trip is the bargain of the month.
+  - His overture was the first step towards a peace agreement.
+  tag:
+  - b12w1
+a378617bc9327ebddc0890f87f7815e2:
+  type: verb
+  word: nennen
+  translation:
+  - name sb./sth.
+  - call sb. sth.
+  - mention
+  - state
+  - term
+  - quote
+  - dub
+  eg_de:
+  - Er hat den Preis genannt und ich habe gezahlt.
+  - Junge Hunde nennt man Welpen.
+  - Sie nannte die Gründe für ihre Entscheidung.
+  - Ein kleines Pferd wird Pony genannt.
+  - Ich werde ein Beispiel nennen, um mein Argument zu stützen.
+  - Der berühmte Sänger wird "King of Pop" genannt.
+  eg_en:
+  - He named the price and I paid it.
+  - Young dogs are called puppies.
+  - She stated the reasons for her decision.
+  - A small horse is termed a pony.
+  - I will quote an example to support my argument.
+  - The famous singer is dubbed "King of Pop".
+  tag:
+  - b12w1
+c685ae0b8f3938e9e881acb5eaeb88a4:
+  type: die
+  word: Dienstleistung
+  translation:
+  - service
+  - service offering
+  eg_de:
+  - 'Die meisten Dienstleistungen werden gegen Entgelt verrichtet. '
+  - Die Firma bietet professionelle Dienstleistungen für Gebäude an.
+  - Die Dienstleistungen der Firma sind auf ihrer Webseite aufgelistet.
+  eg_en:
+  - 'Most services are provided for pay. '
+  - The company offers professional services for buildings.
+  - The company's service offerings are listed on its website.
+  tag:
+  - b12w1
+8ca2c5598b25fcbd008b7d74e27016db:
+  type: verb
+  word: vergleichen
+  translation:
+  - compare sth.
+  - contrast sb./sth.
+  eg_de:
+  - Es ist unmöglich, Äpfel und Orangen zu vergleichen.
+  - Ich habe Preise verglichen, bevor ich das Produkt bestellt habe.
+  - 'Wir verglichen die beiden Charaktere der Erzählung. '
+  eg_en:
+  - It is impossible to compare apples and oranges.
+  - I compared prices before I ordered the product.
+  - We contrasted the two characters of the story.
+  tag:
+  - b12w1
+f9698be25faf359f40357b4b1817f8a5:
+  type: die
+  word: Fähigkeit
+  translation:
+  - ability
+  - capacity
+  - capability
+  - skill
+  - competence
+  - faculty
+  - aptitude
+  eg_de:
+  - Er hatte die Fähigkeit, Menschen zu inspirieren.
+  - Die Bewerberin bewies ihre Fähigkeiten während des Vorstellungsgesprächs.
+  - Seine Fähigkeit zuzuhören machte ihn zu einem guten Manager.
+  - Sie hat die nötigen Fähigkeiten, um das Projekt abzuschließen.
+  - Sie hat in der Schule viele soziale Fähigkeiten erworben.
+  - Ich erhielt eine Bescheinigung über meine Fähigkeiten.
+  - Für manche Berufe braucht man spezielle Fähigkeiten.
+  - 'Das Sehvermögen ist eine wichtige menschliche Fähigkeit. '
+  - Wir evaluieren die Fähigkeit aller Bewerber.
+  eg_en:
+  - He had the ability to inspire people.
+  - The applicant proved her abilities during the interview.
+  - His capacity to listen made him a good manager.
+  - She has the necessary capabilities to complete the project.
+  - She acquired many social skills at school.
+  - I received an attestation of my skills.
+  - For some jobs, you need special competences.
+  - 'Sight is an important human faculty.   '
+  - We assess the aptitude of all applicants.
+  tag:
+  - b12w1
+b355f6be930f3415fdcfd87c8d58ef10:
+  type: der
+  word: Eindruck
+  translation:
+  - impression
+  eg_de:
+  - 'Er machte einen sehr guten Eindruck beim Vorstellungsgespräch.  '
+  - Ein erster Eindruck kann für lange Zeit bleiben.
+  eg_en:
+  - 'He made a very good impression at the job interview. '
+  - A first impression can last for a long time.
+  tag:
+  - b12w1
+a0913eba5ed8a76e9e1b1cd1f39bb803:
+  type: verb
+  word: von etw. abhängen
+  translation:
+  - depend on sth.
+  - be dependent on sth.
+  - hinge on sth.
+  eg_de:
+  - Das Datum für das Picknick hängt von der Wettervorhersage ab.
+  - Der Erfolg des Plans hängt vom Timing ab.
+  eg_en:
+  - The date for the picnic is dependent on the weather forecast.
+  - The success of the plan hinges on the timing.
+  tag:
+  - b12w1
+8c21239f502e324c07a28085a47d84f2:
+  type: die
+  word: Bewerbung
+  translation:
+  - application
+  - letter of application
+  - job application
+  eg_de:
+  - Ihre Bewerbung für diese Stelle war erfolgreich.
+  - Ich muss meiner Bewerbung diese Dokumente hinzufügen.
+  - Meine Bewerbung enthält auch einen Lebenslauf.
+  - Bitte beziehen Sie sich in Ihrer Bewerbung auf das Stellenangebot.
+  eg_en:
+  - Your application for this position has been successful.
+  - I need to add these documents to my application.
+  - My letter of application also includes a curriculum vitae.
+  - Please refer to the vacancy in your job application.
+  tag:
+  - b12w1
+42c789dc366d443b7cf366ce8c038357:
+  type: die
+  word: Unterlagen
+  translation:
+  - documents
+  - data
+  - files
+  - papers
+  eg_de:
+  - Wir müssen die Unterlagen gliedern.
+  - Die betreffenden Unterlagen wurden vorgelegt.
+  - Der Detektiv durchsuchte die Unterlagen nach einem Hinweis.
+  - Ich hefte meine Unterlagen dem Datum nach ab.
+  eg_en:
+  - We need to order the documents.
+  - The documents in question have been presented.
+  - The detective searched the files for a clue.
+  - I file my papers by date.
+  tag:
+  - b12w1
+baf74c16600569dbfe2797c4aa59cafd:
+  type: adj
+  word: ordentlich
+  translation:
+  - proper
+  - orderly
+  - neat
+  - decent
+  - trim
+  eg_de:
+  - 'Bei der Arbeit sollte ordentliche Kleidung getragen werden. '
+  - Bei Origami und Papierflugzeugen sind ordentliche Falze wichtig.
+  - Viele Piloten verdienen ein ordentliches Gehalt.
+  - Ich habe ein bisschen Geld investiert und einen ordentlichen Gewinn erhalten.
+  - Er hat einen sehr ordentlichen Garten hinter seinem Haus.
+  eg_en:
+  - 'Proper clothing should be worn at work. '
+  - For origami and paper planes, neat folds are important.
+  - Many pilots earn a decent salary.
+  - I have invested some money and received a decent return.
+  - He has a very trim garden behind his house.
+  tag:
+  - b12w1
+737da96226ff9bf574b677defc067b2f:
+  type: verb
+  word: stellen
+  translation:
+  - put
+  - place
+  - set
+  - position
+  - provide
+  eg_de:
+  - Ich stellte die Vase auf den Tisch.
+  - Ich stellte das Buch zurück ins Regal.
+  - Die Frau stellte die schöne Vase auf den Tisch.
+  - Die Besucher stellten die Geschenke auf den Tisch.
+  - Sie stellte die Vase vorsichtig auf das Regal.
+  eg_en:
+  - I put the vase on the table.
+  - I put the book back on the shelf.
+  - The woman placed the beautiful vase on the table.
+  - The visitors set their presents on the table.
+  - She positioned the vase carefully on the shelf.
+  tag:
+  - b12w1
+9fa894fc39541efd798a1d5a9f0056c7:
+  type: adj
+  word: vollständig
+  translation:
+  - full
+  - complete
+  - in full
+  - outright
+  - exhaustive
+  eg_de:
+  - Der vollständige Bericht ist hunderte Seiten lang.
+  - Sie fand den vollständigen Artikel im Internet.
+  - Wir müssen noch zwei Namen hinzufügen, damit die Liste vollständig ist.
+  - Das Museum kann vollständiges Eigentum des Bildes nachweisen.
+  - Der Professor gab mir eine vollständige Antwort auf meine Frage.
+  eg_en:
+  - The full report is hundreds of pages long.
+  - She found the complete article on the internet.
+  - We have to add two more names to the list to make it complete.
+  - The museum can document outright ownership of the painting.
+  - The professor gave an exhaustive answer to my question.
+  tag:
+  - b12w1
+5c3cb18371c519057f2143819827e501:
+  type: das
+  word: Anschreiben
+  translation:
+  - letter
+  - cover letter
+  - covering letter
+  eg_de:
+  - Sie bekam den Job wegen ihres herausragenden Anschreibens.
+  - Bitte fügen Sie Ihrer Bewerbung ein aussagekräftiges Anschreiben bei.
+  - Ich fügte meiner Bewerbung ein Anschreiben hinzu.
+  eg_en:
+  - Her outstanding cover letter got her the job.
+  - Please include a meaningful cover letter in your application.
+  - I added a covering letter to my application.
+  tag:
+  - b12w1
+cd762ab93ff33eb91014d88dc3db0d23:
+  type: der
+  word: Lebenslauf
+  translation:
+  - curriculum vitae
+  - CV
+  - life
+  - resume
+  - résumé
+  eg_de:
+  - Mein beruflicher Werdegang ist in meinem Lebenslauf beschrieben.
+  - Alle Bewerber müssen einen Lebenslauf und ein Anschreiben einreichen.
+  - Jede Bewerbung muss einen Lebenslauf beinhalten.
+  - Ich aktualisierte meinen Lebenslauf, bevor ich mich für den Job bewarb.
+  eg_en:
+  - My career is described in my curriculum vitae.
+  - All applicants must submit a CV and a cover letter.
+  - Every application needs to include a resume.
+  - I updated my résumé before applying for the job.
+  tag:
+  - b12w1
+dc8beae4a0f826e51dbec16c3f0b26ce:
+  type: das
+  word: Zeugnis
+  translation:
+  - certificate
+  - report
+  - testimony
+  eg_de:
+  - Jedes Zeugnis wird vom Rektor der Schule unterschrieben.
+  - Die Schüler erhalten am Ende des Schuljahres ein Zeugnis.
+  eg_en:
+  - Every certificate is signed by the principal of the school.
+  - The pupils receive a report at the end of the school year.
+  tag:
+  - b12w1
+41c290b58e808eb62b60089c592dcff6:
+  type: verb
+  word: enthalten
+  translation:
+  - contain
+  - include
+  - comprise
+  - incorporate sth.
+  - hold sth.
+  eg_de:
+  - Der Film gefällt mir, weil er berührende Szenen enthält.
+  - Milch enthält viel Calcium.
+  - Das neue Buch enthält ein Zusatzkapitel.
+  - Das Paket enthält alle notwendigen Komponenten.
+  - 'Die Maschine enthält die modernste Technik. '
+  - Der Tender enthielt Brennstoff und Wasser für die Dampflokomotive.
+  eg_en:
+  - I like the film because it contains moving scenes.
+  - Milk contains a lot of calcium.
+  - The new book includes an extra chapter.
+  - The package comprises all necessary components.
+  - 'The machine incorporates the latest technology. '
+  - The tender held fuel and water for the steam train.
+  tag:
+  - b12w1
+67cb0a9c7f94ed292acc721a854477ce:
+  type: verb
+  word: zeigen
+  translation:
+  - exhibit
+  - display sth.
+  - show sth.
+  - demonstrate
+  - present
+  - point
+  - indicate sth.
+  - screen
+  - reveal
+  eg_de:
+  - Er hatte keine Angst, seine Gefühle zu zeigen.
+  - Er hat seine Dankbarkeit mit einem Geschenk gezeigt.
+  - Unser Vater zeigte uns seine Babyfotos und Dias.
+  - Der Verkäufer zeigte die neuen Eigenschaften des Produkts.
+  - Der Ausbilder zeigte, wie man auf einem Pferd voltigiert.
+  - Läden müssen den Preis der Ware zeigen.
+  - Meine Uhr zeigt die aktuelle Uhrzeit in Berlin und New York an.
+  - Die Ergebnisse werden in umgekehrter Reihenfolge gezeigt.
+  - Sie zeigte auf einen Hirsch, der sich im Wald versteckte.
+  - 'An der linken Hand zeigt der Daumen nach rechts. '
+  - Der Punkt auf der Karte zeigt den aktuellen Standort.
+  - 'Das Studio beschloss, den neuen Film erst einem ausgewählten Publikum zu zeigen. '
+  - Ihr Gesichtsausdruck zeigte, was sie wirklich fühlte.
+  - Der Patient zeigte Zeichen der Besserung nach der Behandlung.
+  eg_en:
+  - He was not afraid to show his feelings.
+  - He showed his gratitude with a present.
+  - Our father showed us his baby photos and slides.
+  - The salesman demonstrated the new features of the product.
+  - The instructor demonstrated how to vault on a horse.
+  - Shops must display the prices of goods.
+  - My watch displays the current time in Berlin and New York.
+  - The results are presented in reverse order.
+  - She pointed at a deer hiding in the woods.
+  - On the left hand, the thumb points to the right.
+  - The dot on the map indicates the current location.
+  - 'The studio decided to screen the new film for a select audience first. '
+  - Her facial expression revealed what she really felt.
+  - The patient exhibited signs of improvement after the treatment.
+  tag:
+  - b12w1
+ab63b86d77b480f00113043ca72291cf:
+  type: das
+  word: Unternehmen
+  translation:
+  - company
+  - business
+  - undertaking
+  - enterprise
+  - operation
+  - corporation
+  - organisation
+  - business enterprise
+  eg_de:
+  - Mein Bruder arbeitet bei einem großen internationalen Unternehmen.
+  - Jedes Unternehmen will Kosten sparen.
+  - Meine Freundin gründete letztes Jahr ihr eigenes Unternehmen.
+  - 'Die Expedition war ein erfolgreiches Unternehmen. '
+  - So ein gewagtes Unternehmen erfordert viel Mut.
+  - Kleine Unternehmen sind auch wichtig für die Wirtschaft.
+  - Ich arbeite für ein junges, aufstrebendes Unternehmen.
+  - Unsere Mitarbeiter sind das Herzstück unseres Unternehmens.
+  - Die Firma, für die ich arbeite, ist ein globales Unternehmen.
+  - Mein Vater arbeitet in einem großen internationalen Unternehmen.
+  - Mein Bruder arbeitet in einem großen internationalen Unternehmen.
+  - Sie haben das Unternehmen gegründet, als sie sehr jung waren.
+  eg_en:
+  - My brother works for a large international company.
+  - Every company wants to save costs.
+  - My friend started her own business last year.
+  - 'The expedition was a successful undertaking. '
+  - Such a daring undertaking requires a lot of courage.
+  - Small enterprises are also important for the economy.
+  - I work for a young and upcoming enterprise.
+  - Our employees are the core of our enterprise.
+  - The company I work for is a global operation.
+  - My father works for a big international corporation.
+  - My brother works for a big international organisation.
+  - They started the business enterprise at a very young age.
+  tag:
+  - b12w1
+78efa20c82e7ba83c346bb9cb30ab9c1:
+  type: die
+  word: Tätigkeit
+  translation:
+  - activity
+  - occupation
+  eg_de:
+  - Unsere Recherche zeigt, dass Fahrradfahren eine gesunde Tätigkeit ist.
+  - Meine Fähigkeiten erlaubten es mir, eine bessere Tätigkeit zu finden.
+  eg_en:
+  - Our research shows that cycling is a healthy activity.
+  - My skills allowed me to find a better occupation.
+  tag:
+  - b12w1
+dd93d2945cca97a870082e71e5e2550c:
+  type: das
+  word: Fachwissen
+  translation:
+  - expertise
+  - know-how
+  - technical knowledge
+  - expert knowledge
+  eg_de:
+  - Er hat Erfahrung und betriebswirtschaftliches Fachwissen.
+  - Für diesen Job muss man das Fachwissen und die Fertigkeiten haben.
+  - Die Verkäuferin im Elektrogeschäft hat ein ausgezeichnetes Fachwissen.
+  - 'Ihre Kollegen schätzen ihre Hilfsbereitschaft und ihr Fachwissen. '
+  eg_en:
+  - He has experience and business expertise.
+  - For this job you must have the know-how and the skills.
+  - The saleswoman in the electrical shop has excellent technical knowledge.
+  - 'Her colleagues appreciate her helpfulness and her expert knowledge. '
+  tag:
+  - b12w1
+309c7c1c02b4638e52dd248f5561135f:
+  type: conj
+  word: sondern
+  translation:
+  - but
+  eg_de:
+  - 'Er reiste diesmal nicht mit dem Auto, sondern per Zug. '
+  - Die Diskussion war nicht mehr sachlich, sondern emotional.
+  eg_en:
+  - 'He did not travel by car this time, but by train. '
+  - The discussion was no longer factual but emotional.
+  tag:
+  - b12w1
+08e6b21a293c9ca73e2d8839e29b75b9:
+  type: verb
+  word: einladen
+  translation:
+  - invite
+  - invite sb.
+  eg_de:
+  - Ich habe alle meine Freunde zu meiner Geburtstagsfeier eingeladen.
+  - 'Ich fühlte mich verpflichtet, alle zum Essen einzuladen. '
+  - Sie wird Freunde und Familie auf ihre Feier einladen.
+  - 'Ich fühlte mich verpflichtet, alle zum Essen einzuladen. '
+  eg_en:
+  - I invited all my friends to my birthday party.
+  - 'I felt obliged to invite everybody to dinner. '
+  - She will invite friends and family to her party.
+  - 'I felt obliged to invite everybody to dinner. '
+  tag:
+  - b12w1
+ce8c11a9a871c7135dfa0c3ddeb04f14:
+  type: das
+  word: Vorstellungsgespräch
+  translation:
+  - interview
+  eg_de:
+  - Nach einem erfolgreichen Vorstellungsgespräch bekam ich die Stelle.
+  eg_en:
+  - After a successful interview I got the job.
+  tag:
+  - b12w1
+587cdfb3f9ee53a292e59fa9930f0ca5:
+  type: verb
+  word: überzeugen
+  translation:
+  - convince sb.
+  eg_de:
+  - Er überzeugte die Kämpfer, nicht zuzuschlagen.
+  eg_en:
+  - He convinced the fighters not to strike.
+  tag:
+  - b12w1

@@ -1,0 +1,3695 @@
+[
+  {
+    "rank": 1,
+    "word": "der",
+    "type": "art",
+    "translation": ["the"],
+    "eg_de": ["Der Mann und die Frau kochen, das Kind spielt."],
+    "eg_en": ["The man and the woman are cooking; the child is playing."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 2,
+    "word": "und",
+    "type": "conj",
+    "translation": ["and"],
+    "eg_de": ["Die Eltern und Kinder essen und sprechen über ihren Tag."],
+    "eg_en": ["The parents and children eat and talk about their day."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 3,
+    "word": "in",
+    "type": "prep",
+    "translation": ["in", "into"],
+    "eg_de": ["Günter geht in den Keller."],
+    "eg_en": ["Günter goes into the basement."],
+    "tag": ["6", "w2", "a12w1"]
+  },
+  {
+    "rank": 4,
+    "word": "sein",
+    "type": "verb",
+    "translation": ["be"],
+    "eg_de": ["Ich bin Lehrer und du bist Polizist und damit sind wir glücklich."],
+    "eg_en": ["I’m a teacher, and you’re a police officer, and we’re happy with that."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 5,
+    "word": "ein",
+    "type": "art",
+    "translation": ["a", "an"],
+    "eg_de": ["Er wohnt in einem Hotel."],
+    "eg_en": ["He’s staying at a hotel."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 6,
+    "word": "haben",
+    "type": "verb",
+    "extra": "(conj. haben / habend / gehabt)",
+    "translation": ["have"],
+    "eg_de": ["Ich habe ein Buch in der Hand."],
+    "eg_en": ["I have a book in my hand."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 7,
+    "word": "sie",
+    "type": "pron",
+    "translation": ["she", "her", "you", "them"],
+    "eg_de": ["Paul besucht Anna, sie ist Pauls Tante."],
+    "eg_en": ["Paul visits Anna; she’s Paul’s aunt."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 8,
+    "word": "werden",
+    "type": "verb",
+    "translation": ["become", "get"],
+    "eg_de": ["Der Junge 'wird' zum Mann."],
+    "eg_en": ["The boy 'becomes', a man."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 9,
+    "word": "von",
+    "type": "prep",
+    "translation": ["from", "of"],
+    "eg_de": ["Benjamin ist der Bruder 'von' Anna."],
+    "eg_en": ["Benjamin is the brother 'of' Anna."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 10,
+    "word": "ich",
+    "type": "pron",
+    "translation": ["I"],
+    "eg_de": ["Ich arbeite und du bleibst zu Hause."],
+    "eg_en": ["I work and you stay home."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 11,
+    "word": "nicht",
+    "type": "part",
+    "translation": ["not"],
+    "eg_de": ["Im Restaurant darf man nicht rauchen."],
+    "eg_en": ["You can’t smoke in the restaurant."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 12,
+    "word": "es",
+    "type": "pron",
+    "translation": ["it"],
+    "eg_de": ["Das Kind geht ins Bett, es ist müde."],
+    "eg_en": ["The child goes to bed; she is tired."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 13,
+    "word": "mit",
+    "type": "prep",
+    "translation": ["with"],
+    "eg_de": ["Mein Bruder spielt mit Janosch Fußball im Garten"],
+    "eg_en": ["My brother plays soccer in the garden with Janosch"],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 14,
+    "word": "sich",
+    "type": "pron",
+    "translation": ["herself", "himself", "itself", "oneself"],
+    "eg_de": ["Das Kind sieht sich im Spiegel."],
+    "eg_en": ["The child sees itself in the mirror."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 15,
+    "word": "er",
+    "type": "pron",
+    "translation": ["he"],
+    "eg_de": ["Jan hat gute Noten in der Schule, er ist ein kluges Kind."],
+    "eg_en": ["Jan has good grades in school; he’s a smart child."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 16,
+    "word": "auf",
+    "type": "prep",
+    "translation": ["on", "at", "to"],
+    "eg_de": ["Auf dem Tisch steht ein Glas Wasser."],
+    "eg_en": ["There’s a glass of water on the table."],
+    "tag": ["6", "w2", "a12w1"]
+  },
+  {
+    "rank": 17,
+    "word": "für",
+    "type": "prep",
+    "translation": ["for"],
+    "eg_de": ["Sie macht einen Kaffee für Max. "],
+    "eg_en": ["She’s making coffee for Max."],
+    "tag": ["6", "w2", "a12", "a12w2"],
+    "context": null,
+    "extra": "(akkusativ)"
+  },
+  {
+    "rank": 18,
+    "word": "auch",
+    "type": "adv",
+    "translation": ["also", "too"],
+    "eg_de": ["Auch ich habe Geburtstag, nicht nur Markus."],
+    "eg_en": ["It’s my birthday too, not just Markus’s."],
+    "tag": ["3", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 19,
+    "word": "an",
+    "type": "prep",
+    "translation": ["at","on"],
+    "eg_de": ["Das Bild hängt an der Wand."],
+    "eg_en": ["The picture hangs on the wall."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 20,
+    "word": "dass",
+    "type": "conj",
+    "translation": ["that"],
+    "eg_de": ["Ich vermute, dass der Zug wieder zu spät kommt."],
+    "eg_en": ["I suspect the train will be late again."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 23,
+    "word": "können",
+    "type": "verb",
+    "translation": ["be able to", "can"],
+    "eg_de": ["Die Kinder können schon Fahrrad fahren"],
+    "eg_en": ["The children can already ride bicycles."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 25,
+    "word": "wie",
+    "type": "pron, part",
+    "translation": ["how", "as"],
+    "eg_de": [
+      "(pron) Wie lange dauert es?",
+      "(part) Johanna ist so alt wie Matthias."
+    ],
+    "eg_en": [
+      "How long does it take?",
+      "Johanna is as old as Matthias."
+    ],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 31,
+    "word": "aber",
+    "type": "conj",
+    "translation": ["but"],
+    "eg_de": ["Die Sonne scheint, aber es ist trotzdem kalt."],
+    "eg_en": ["The sun is shining, but it’s still cold."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 33,
+    "word": "noch",
+    "type": "adv",
+    "translation": ["still", "yet"],
+    "eg_de": ["Habt ihr sonst noch Fragen?"],
+    "eg_en": ["Do you still have any questions?"],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 35,
+    "word": "oder",
+    "type": "conj",
+    "translation": ["or"],
+    "eg_de": ["Kommst du mit dem Fahrrad oder fährst du mit dem Bus?"],
+    "eg_en": ["Are you coming by bike or are you going by bus?"],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 37,
+    "word": "aus",
+    "type": "prep",
+    "translation": ["out", "out of", "from"],
+    "eg_de": ["Thomas schaut aus dem Fenster."],
+    "eg_en": ["Thomas looks out the window."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 38,
+    "word": "was",
+    "type": "pron",
+    "translation": ["what"],
+    "eg_de": ["Was sagst du?"],
+    "eg_en": ["What do you say?"],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 39,
+    "word": "nur",
+    "type": "adv",
+    "translation": ["only"],
+    "eg_de": ["Das kostet nur zwei Euro."],
+    "eg_en": ["It only costs two euros."],
+    "tag": ["5", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 40,
+    "word": "sagen",
+    "type": "verb",
+    "translation": ["say", "tell"],
+    "eg_de": ["Der Kollege sagt ihr, wo sie die Schlüssel findet."],
+    "eg_en": ["The colleague tells her where to find the keys."],
+    "tag": ["5", "w2", "a12w1"]
+  },
+  {
+    "rank": 43,
+    "word": "müssen",
+    "type": "verb",
+    "translation": ["have to", "must"],
+    "eg_de": ["Ich muss um neun zu Hause sein, sonst ist meine Mutter böse. "],
+    "eg_en": ["I have to be home by nine o’clock or my mother will be angry."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 44,
+    "word": "um",
+    "type": "prep, conj",
+    "translation": ["around", "at", "in order to"],
+    "eg_de": ["(prep) Die Kinder laufen um den Baum.",
+      "(conj) Ich arbeite auch am Wochenende, um meinen Urlaub bezahlen zu können."],
+    "eg_en": ["The children run around the tree.", "I also work on weekends in order to pay for my vacation."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 46,
+    "word": "kein",
+    "type": "pron",
+    "translation": ["no"],
+    "eg_de": ["Sie haben keine Chance, das Spiel zu gewinnen."],
+    "eg_en": ["They have no chance of winning the game."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 47,
+    "word": "über",
+    "type": "prep",
+    "translation": ["above", "over", "about"],
+    "eg_de": ["Über mir fliegt ein Flugzeug"],
+    "eg_en": ["There’s a plane flying above me."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 49,
+    "word": "geben",
+    "type": "verb",
+    "translation": ["give"],
+    "eg_de": ["imo gibt dem Verkäufer die Bücher."],
+    "eg_en": ["Timo gives the books to the seller."],
+    "tag": ["7", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 50,
+    "word": "vor",
+    "type": "prep",
+    "translation": ["in front of", "before", "ago", "ahead"],
+    "eg_de": ["Laura wartet vor der Tür auf ihre Freunde."],
+    "eg_en": ["Laura is waiting in front of the door for her friends."],
+    "tag": ["2", "w1", "a12w1"]
+  },
+  {
+    "rank": 51,
+    "word": "mein",
+    "type": "pron",
+    "translation": ["mine", "my"],
+    "eg_de": ["Anna ist meine kleine Schwester."],
+    "eg_en": ["Anna is my little sister."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 52,
+    "word": "mehr",
+    "type": "adv",
+    "translation": ["more"],
+    "eg_de": ["Ich habe Hunger und möchte mehr Brot."],
+    "eg_en": ["I’m hungry and want more bread."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 53,
+    "word": "Jahr",
+    "type": "das",
+    "translation": ["year"],
+    "eg_de": ["Ein Jahr hat 52 Wochen."],
+    "eg_en": ["A year has 52 weeks."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 54,
+    "word": "du",
+    "type": "pron",
+    "translation": ["you"],
+    "eg_de": ["Wer bist du?"],
+    "eg_en": ["Who are you?"],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 55,
+    "word": "durch",
+    "type": "prep",
+    "translation": ["through"],
+    "eg_de": ["Ralf läuft durch die Stadt."],
+    "eg_en": ["Ralf walks through the city."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 56,
+    "word": "viel",
+    "type": "pron",
+    "translation": ["much", "a lot", "many"],
+    "eg_de": ["Ich gebe im Urlaub viel Geld aus."],
+    "eg_en": ["I spend a lot of money on vacation."],
+    "tag": ["2", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 57,
+    "word": "wollen",
+    "type": "verb",
+    "translation": ["want to", "want", "inted"],
+    "eg_de": ["Die Kinder wollen spielen."],
+    "eg_en": ["The children want to play."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 58,
+    "word": "machen",
+    "type": "verb",
+    "translation": ["make", "do"],
+    "eg_de": ["Die Schüler machen ihre Aufgaben."],
+    "eg_en": ["The students do their tasks"],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 60,
+    "word": "sollen",
+    "type": "verb",
+    "translation": ["should", "ought to"],
+    "eg_de": ["Ihr sollt in der Bibliothek leise sein."],
+    "eg_en": ["You should be quiet in the library."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 62,
+    "word": "kommen",
+    "type": "verb",
+    "translation": ["come"],
+    "eg_de": ["Wir kommen morgen Abend zu dir."],
+    "eg_en": ["We’ll come to your place tomorrow night."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 64,
+    "word": "immer",
+    "pronunciation": "",
+    "type": "verb",
+    "translation": ["always"],
+    "eg_de": ["Zum Frühstück esse ich immer eine Scheibe Brot."],
+    "eg_en": ["I always have a slice of bread for breakfast."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 66,
+    "word": "gehen",
+    "type": "verb",
+    "translation": ["go"],
+    "eg_de": ["Wir gehen heute ins Theater."],
+    "eg_en": ["We’re going to the theater today."],
+    "tag": ["4", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 67,
+    "word": "groß",
+    "type": "adj",
+    "translation": ["big", "large", "great"],
+    "eg_de": ["Florian hat eine große Wohnung."],
+    "eg_en": ["Florian has a big apartment."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 68,
+    "word": "hier",
+    "type": "adv",
+    "translation": ["here"],
+    "eg_de": ["Hier ist mein Zimmer."],
+    "eg_en": ["Here is my room."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 69,
+    "word": "ganz",
+    "type": "part, adj",
+    "translation": ["quite", "whole"],
+    "eg_de": ["Er löst die Aufgabe ganz gut.", "Das ganze Zimmer ist leer."],
+    "eg_en": ["He’s solving the task quite well.", "The whole room is empty."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 72,
+    "word": "jetzt",
+    "type": "adv",
+    "translation": ["now"],
+    "eg_de": ["Wir müssen jetzt ins Bett."],
+    "eg_en": ["We have to go to bed now."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 73,
+    "word": "doch",
+    "type": "adv",
+    "translation": ["however", "but"],
+    "eg_de": ["Heute scheint die Sonne, doch ich bleibe zu Hause."],
+    "eg_en": ["Today the sun is shining, but I’m staying at home."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 74,
+    "word": "wieder",
+    "type": "adv",
+    "translation": ["again"],
+    "eg_de": ["Lea kommt wieder zu spät."],
+    "eg_en": ["Lea’s late again."],
+    "tag": ["7", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 75,
+    "word": "uns",
+    "type": "pron",
+    "translation": ["us", "we"],
+    "eg_de": ["Katharina besucht Max und mich, wir freuen uns darauf."],
+    "eg_en": ["Katharina is visiting Max and me, we are looking forward to it."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 76,
+    "word": "gut",
+    "type": "adj",
+    "translation": ["good"],
+    "eg_de": ["Die Blumen riechen gut"],
+    "eg_en": ["The flowers smell good."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 78,
+    "word": "wissen",
+    "type": "verb",
+    "translation": ["know"],
+    "eg_de": ["Max weiß viel und ist gut in der Schule."],
+    "eg_en": ["Max knows a lot and is good at school."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 79,
+    "word": "sehen",
+    "type": "verb",
+    "translation": ["see"],
+    "eg_de": ["Seit er die neue Brille hat, kann er besser sehen."],
+    "eg_en": ["Since he got the new glasses, he can see better."],
+    "tag": ["5", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 83,
+    "word": "lassen",
+    "type": "verb",
+    "translation": ["let", "allow", "have done"],
+    "eg_de": ["Lass mich gehen!"],
+    "eg_en": ["Let me go!"],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 84,
+    "word": "neu",
+    "type": "adj",
+    "translation": ["new"],
+    "eg_de": ["Ich habe eine neue Tasche, weil die alte kaputt ist."],
+    "eg_en": ["I got a new bag because the old"],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 85,
+    "word": "stehen",
+    "type": "verb",
+    "translation": ["stand"],
+    "eg_de": ["Die Fahrräder stehen im Keller."],
+    "eg_en": ["The bicycles stand in the cellar."],
+    "tag": ["5", "w2", "a12","a12w1"]
+  },
+  {
+    "rank": 87,
+    "word": "jede",
+    "type": "pron",
+    "translation": ["every"],
+    "eg_de": ["Wir fahren jeden Sommer in den Urlaub"],
+    "eg_en": ["We go on vacation every summer."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 88,
+    "word": "weil",
+    "type": "conj",
+    "translation": ["because"],
+    "eg_de": ["Frederiks Mutter steht früh auf, weil sie um sechs Uhr arbeiten muss."],
+    "eg_en": ["Frederik’s mother gets up early because she has to work at six o’clock."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 89,
+    "word": "unter",
+    "type": "prep",
+    "translation": ["under"],
+    "eg_de": ["Unter der Brücke fließt ein Fluss."],
+    "eg_en": ["Under the bridge a river flows."],
+    "tag": ["4", "w2", "a12w1"]
+  },
+  {
+    "rank": 93,
+    "word": "denn",
+    "type": "conj",
+    "translation": ["because", "for", "since"],
+    "eg_de": ["Heute sind alle Geschäfte geschlossen, denn es ist Sonntag."],
+    "eg_en": ["Today all shops are closed because it is Sunday."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 94,
+    "word": "Beispiel",
+    "type": "das",
+    "translation": ["example"],
+    "eg_de": ["Das Beispiel passt nicht gut zu diesem Argument."],
+    "eg_en": ["The example does not fit this argument well."],
+    "tag": ["4", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 96,
+    "word": "Zeit",
+    "type": "die",
+    "translation": ["time"],
+    "eg_de": ["Jannik braucht viel Zeit für seine Aufgabe."],
+    "eg_en": ["Jannik needs a lot of time for his task."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 99,
+    "word": "Frau",
+    "type": "die",
+    "translation": ["woman", "wife", "Mrs"],
+    "eg_de": ["Frauen sollten den gleichen Lohn bekommen wie Männer."],
+    "eg_en": ["Women should be paid the same as men."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 100,
+    "word": "etwas",
+    "type": "pron",
+    "translation": ["something", "some", "a little"],
+    "eg_de": ["Jeder macht die Welt etwas besser."],
+    "eg_en": ["Everybody makes the world a little better."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 102,
+    "word": "wenig",
+    "type": "adj",
+    "translation": ["few"],
+    "eg_de": ["Es gibt nur wenige Menschen, denen er vertraut."],
+    "eg_en": ["There are just a few people he trusts."],
+    "tag": ["5", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 103,
+    "word": "finden",
+    "type": "verb",
+    "translation": ["find"],
+    "eg_de": ["Ich kann meine Tasche nicht finden."],
+    "eg_en": ["I can’t find my bag."],
+    "tag": ["1", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 104,
+    "word": "gegen",
+    "type": "prep",
+    "translation": ["against"],
+    "eg_de": ["Ich verliere immer gegen dich."],
+    "eg_en": ["I always lose against you."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 105,
+    "word": "zwischen",
+    "type": "prep",
+    "translation": ["between"],
+    "eg_de": ["Mein Fahrrad steht zwischen den Bäumen."],
+    "eg_en": ["My bicycle is standing between the trees."],
+    "tag": ["6", "w2", "a12w1"]
+  },
+  {
+    "rank": 107,
+    "word": "liegen",
+    "type": "verb",
+    "translation": ["lie", "lay"],
+    "eg_de": ["Der Hund liegt unter dem Stuhl."],
+    "eg_en": ["The dog is lying under the chair."],
+    "tag": ["7", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 108,
+    "word": "wo",
+    "type": "pron",
+    "context": "location",
+    "translation": ["where"],
+    "eg_de": ["Wo bist du geboren?"],
+    "eg_en": ["Where were you born?"],
+    "tag": ["7", "w2", "a12","a12w1"]
+  },
+  {
+    "rank": 110,
+    "word": "klein",
+    "type": "adj",
+    "translation": ["small", "little"],
+    "eg_de": ["Martin hat eine kleine Schwester."],
+    "eg_en": ["Martin has a little sister."],
+    "tag": ["4", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 111,
+    "word": "Tag",
+    "type": "der",
+    "translation": ["day"],
+    "eg_de": ["Eine Woche hat sieben Tage."],
+    "eg_en": ["A week has seven days."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 113,
+    "word": "bleiben",
+    "pronunciation": "/ˈblaɪ̯bən/",
+    "type": "verb",
+    "translation": ["stay", "remain"],
+    "eg_de": ["Anna möchte für ein Jahr im Ausland bleiben."],
+    "eg_en": ["Anna wants to stay abroad for a year."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 116,
+    "word": "heute",
+    "type": "adv",
+    "translation": ["today"],
+    "eg_de": ["Heute ist mein Geburtstag."],
+    "eg_en": ["Today is my birthday."],
+    "tag": ["4", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 117,
+    "word": "beide",
+    "type": "pron",
+    "translation": ["both"],
+    "eg_de": ["Er hat zwei Kinder und liebt sie beide."],
+    "eg_en": ["He has two children and loves them both."],
+    "tag": ["7", "w2", "a12w1"]
+  },
+  {
+    "rank": 120,
+    "word": "ohne",
+    "type": "prep, conj",
+    "translation": ["without"],
+    "eg_de": ["(prep) Ich verlasse meine Wohnung nie ohne Schlüssel.",
+      "(conj) Du sprichst, ohne nachzudenken."
+    ],
+    "eg_en": ["I never leave my apartment without a key",
+      "You talk without thinking."
+    ],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 122,
+    "word": "welche",
+    "type": "pron",
+    "translation": ["which"],
+    "eg_de": ["Welchen Film magst du lieber?"],
+    "eg_en": ["Which movie do you like better?"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 124,
+    "word": "einmal",
+    "type": "adv",
+    "translation": ["once"],
+    "eg_de": ["Ich möchte einmal im Leben nach Paris fahren."],
+    "eg_en": ["I want to go to Paris once in my life."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 128,
+    "word": "denken",
+    "type": "verb",
+    "translation": ["think"],
+    "eg_de": ["Ich denke gerade an meinen letzten Urlaub."],
+    "eg_en": ["I’m thinking about my last vacation."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 130,
+    "word": "seit",
+    "type": "prep",
+    "translation": ["since", "for"],
+    "eg_de": ["Ihre Schwester ist seit drei Monaten im Ausland."],
+    "eg_en": ["Her sister has been abroad for three months."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 131,
+    "word": "einfach",
+    "type": "adj",
+    "translation": ["simple", "easy"],
+    "eg_de": ["Die Prüfung war sehr einfach. "],
+    "eg_en": ["The exam was very simple."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 136,
+    "word": "zeigen",
+    "type": "verb",
+    "translation": ["show"],
+    "eg_de": ["Können Sie mir den Weg zeigen?"],
+    "eg_en": ["Could you show me the way?"],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 138,
+    "word": "alt",
+    "type": "adj",
+    "translation": ["old"],
+    "eg_de": ["Wie alt bist du?"],
+    "eg_en": ["How old are you?"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 137,
+    "word": "natürlich",
+    "type": "adv",
+    "translation": ["naturally", "of course"],
+    "eg_de": ["Natürlich vermisse ich dich."],
+    "eg_en": ["Of course I miss you."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 139,
+    "word": "dort",
+    "type": "adv",
+    "translation": ["there"],
+    "eg_de": ["Die Bibliothek ist dort drüben."],
+    "eg_en": ["The library is over there."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 141,
+    "word": "gleich",
+    "type": "adj",
+    "translation": ["same", "right away", "just"],
+    "eg_de": ["Die zwei Schwestern tragen das gleiche Kleid."],
+    "eg_en": ["The two sisters are wearing the same dress."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 142,
+    "word": "nehmen",
+    "type": "verb",
+    "translation": ["take"],
+    "eg_de": ["Ich nehme ein Wasser."],
+    "eg_en": ["I’ll take a water."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 143,
+    "word": "dürfen",
+    "type": "verb",
+    "translation": ["allowed", "may"],
+    "eg_de": ["Darf ich heute Abend mit Lisa ins Kino?"],
+    "eg_en": ["May I go to the movies with Lisa tonight?"],
+    "tag": ["2", "w1", "a12","a12w2"]
+  },
+  {
+    "rank": 144,
+    "word": "wichtig",
+    "type": "adj",
+    "translation": ["important"],
+    "eg_de": ["Er hat eine wichtige Frage."],
+    "eg_en": ["He has an important question."],
+    "tag": ["4", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 145,
+    "word": "vielleicht",
+    "type": "adv",
+    "translation": ["perhaps", "maybe"],
+    "eg_de": ["Vielleicht gibt es noch einen anderen Weg."],
+    "eg_en": ["Maybe there’s another way."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 146,
+    "word": "hören",
+    "type": "verb",
+    "translation": ["hear"],
+    "eg_de": ["Kannst du mich hören?"],
+    "eg_en": ["Can you hear me?"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 147,
+    "word": "Haus",
+    "type": "das",
+    "translation": ["house"],
+    "eg_de": ["Meine Eltern wohnen in einem kleinen Haus."],
+    "eg_en": ["My parents live in a small house."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 149,
+    "word": "wer",
+    "type": "pron",
+    "translation": ["who", "whoever"],
+    "eg_de": ["Wer ist da?"],
+    "eg_en": ["Who is there?"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 150,
+    "word": "dazu",
+    "type": "pron",
+    "translation": ["in addition", "furthermore", "to that", "for that"],
+    "eg_de": ["Ich koche heute und brauche dazu Eier."],
+    "eg_en": ["I’m cooking tonight and I need eggs for that."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 151,
+    "word": "eigentlich",
+    "type": "adv",
+    "translation": ["actually"],
+    "eg_de": ["Eigentlich mag ich kein Eis, aber ich esse es trotzdem."],
+    "eg_en": ["Actually, I don’t like ice cream, but I eat it anyway."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 153,
+    "word": "fragen",
+    "type": "verb",
+    "translation": ["ask"],
+    "eg_de": ["Die Touristen fragen nach dem Weg."],
+    "eg_en": ["The tourists ask for directions."],
+    "tag": ["4", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 155,
+    "word": "halten",
+    "type": "verb",
+    "translation": ["stop", "hold"],
+    "eg_de": ["Er hält ein Buch in seinen Händen."],
+    "eg_en": ["He’s holding a book in his hands."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 156,
+    "word": "glauben",
+    "type": "verb",
+    "translation": ["believe"],
+    "eg_de": ["Sie glaubt ihm nicht."],
+    "eg_en": ["She doesn’t believe him."],
+    "tag": ["4", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 157,
+    "word": "Frage",
+    "type": "die",
+    "translation": ["question"],
+    "eg_de": ["Die Studierenden stellen zu dem neu eingeführten Thema viele Fragen."],
+    "eg_en": ["The students ask many questions about the newly introduced topic."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 158,
+    "word": "gelten",
+    "type": "verb",
+    "translation": ["be valid"],
+    "eg_de": ["Die Karte für den Zug gilt nur heute."],
+    "eg_en": ["The ticket for the train is only valid today."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 160,
+    "word": "folgen",
+    "type": "verb",
+    "translation": ["follow"],
+    "eg_de": ["Der Hund folgt meinem Vater."],
+    "eg_en": ["The dog follows my father."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 161,
+    "word": "sprechen",
+    "type": "verb",
+    "translation": ["speak"],
+    "eg_de": ["Der Student möchte mit dem Professor sprechen."],
+    "eg_en": ["The student would like to speak to the professor."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 162,
+    "word": "führen",
+    "type": "verb",
+    "translation": ["lead"],
+    "eg_de": ["Jakob führt uns durch das Museum."],
+    "eg_en": ["Jakob leads us through the museum."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 163,
+    "word": "bringen",
+    "type": "verb",
+    "translation": ["bring", "take"],
+    "eg_de": ["Der Mann bringt mir einen Kaffee an meinen Tisch."],
+    "eg_en": ["The man brings me a coffee at my table."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 164,
+    "word": "Welt",
+    "type": "die",
+    "translation": ["world"],
+    "eg_de": ["Ich möchte gerne um die Welt reisen."],
+    "eg_en": ["I would like to travel around the world."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 165,
+    "word": "gar",
+    "type": "adv",
+    "translation": ["at all"],
+    "eg_de": ["Das ist gar kein Problem."],
+    "eg_en": ["That’s no problem at all."],
+    "tag": ["8", "w3"]
+  },
+
+  {
+    "rank": 171,
+    "word": "möglich",
+    "pronunciation": "/ˈmøːklɪç/",
+    "type": "adj",
+    "translation": ["possible"],
+    "eg_de": ["Ich besuche meine Eltern so oft wie möglich."],
+    "eg_en": ["I visit my parents as often as possible."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 171,
+    "word": "möglichst",
+    "pronunciation": "/ˈmøːklɪçst/",
+    "type": "adv",
+    "translation": ["possibly", "if possible"],
+    "eg_de": ["Die Aufgabe soll möglichst schnell erledigt werden."],
+    "eg_en": ["The task should be completed as quickly as possible."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 173,
+    "word": "während",
+    "type": "prep",
+    "translation": ["during", "while"],
+    "eg_de": ["Während man isst, soll man nicht reden."],
+    "eg_en": ["You shouldn’t talk while you’re eating."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 177,
+    "word": "richtig",
+    "type": "adj",
+    "translation": ["correct", "right"],
+    "eg_de": ["Alle wissen die richtige Antwort."],
+    "eg_en": ["Everybody knows the correct answer."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 179,
+    "word": "brauchen",
+    "type": "verb",
+    "translation": ["need"],
+    "eg_de": ["Brauchst du Hilfe?"],
+    "eg_en": ["Do you need any help?"],
+    "tag": ["3", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 180,
+    "word": "Hand",
+    "type": "die",
+    "translation": ["hand"],
+    "eg_de": ["Ich schreibe mit meiner rechten Hand."],
+    "eg_en": ["I write with my right hand."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 184,
+    "word": "schreiben",
+    "type": "verb",
+    "translation": ["write"],
+    "eg_de": ["Er schreibt einen Brief an seine Freundin."],
+    "eg_en": ["He’s writing a letter to his girlfriend."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 192,
+    "word": "warum",
+    "type": "adv",
+    "translation": ["why"],
+    "eg_de": ["Warum hast du mich angerufen?"],
+    "eg_en": ["Why did you call me?"],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 194,
+    "word": "Wort",
+    "type": "das",
+    "translation": ["word"],
+    "eg_de": ["Ich verstehe kein Wort."],
+    "eg_en": ["I can’t understand a word."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 201,
+    "word": "besser",
+    "type": "adj",
+    "translation": ["better"],
+    "eg_de": ["Kevin kann besser schwimmen als sein Bruder."],
+    "eg_en": ["Kevin swims better than his brother."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 203,
+    "word": "schnell",
+    "type": "adj",
+    "translation": ["fast", "quick"],
+    "eg_de": ["Mario kann sehr schnell rennen."],
+    "eg_en": ["Mario can run very fast."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 204,
+    "word": "Stadt",
+    "type": "die",
+    "translation": ["city", "town"],
+    "eg_de": ["London, Paris und Berlin sind große Städte."],
+    "eg_en": ["London, Paris, and Berlin are big cities"],
+    "tag": ["2", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 205,
+    "word": "spielen",
+    "type": "verb",
+    "translation": ["play"],
+    "eg_de": ["Die Kinder spielen im Garten."],
+    "eg_en": ["The children are playing in the garden."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 208,
+    "word": "Arbeit",
+    "type": "die",
+    "translation": ["work", "job", "employment", "occupation", "effort"],
+    "eg_de": ["Es liegt noch viel Arbeit vor uns."],
+    "eg_en": ["We still have a lot of work ahead of us."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 212,
+    "word": "bekommen",
+    "type": "verb (formal)",
+    "translation": ["get", "receive"],
+    "eg_de": ["Natascha bekommt ein Fahrrad zu ihrem Geburtstag."],
+    "eg_en": ["Natascha is getting a bike for her birthday."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 215,
+    "word": "fahren",
+    "type": "verb",
+    "translation": ["drive", "ride", "go"],
+    "eg_de": ["Christine fährt mit dem Zug nach Amsterdam."],
+    "eg_en": ["Christine’s taking the train to Amsterdam."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 216,
+    "word": "kennen",
+    "type": "verb",
+    "translation": ["know"],
+    "eg_de": ["Wir kennen uns schon lange."],
+    "eg_en": ["We’ve known each other for a long time."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 219,
+    "word": "Woche",
+    "type": "die",
+    "translation": ["week"],
+    "eg_de": ["Eine Woche hat sieben Tage."],
+    "eg_en": ["A week has seven days."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 221,
+    "word": "weiter",
+    "type": "adv",
+    "translation": ["further"],
+    "eg_de": ["Weitere Informationen zu diesem Thema stehen im Internet."],
+    "eg_en": ["Further information on this topic is available on the internet."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 223,
+    "word": "oft",
+    "type": "adv",
+    "translation": ["often"],
+    "eg_de": ["Sie besucht ihre Oma oft."],
+    "eg_en": ["She visits her grandma often."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 224,
+    "word": "Leute",
+    "type": "die",
+    "translation": ["people"],
+    "eg_de": ["Ich treffe auf der Party viele nette Leute."],
+    "eg_en": ["I meet a lot of nice people at the party."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 225,
+    "word": "allerdings",
+    "type": "adv",
+    "translation": ["though", "indeed", "certainly"],
+    "eg_de": ["Das ist allerdings eine interessante Frage."],
+    "eg_en": ["That is certainly an interesting question."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 235,
+    "word": "Geld",
+    "type": "das",
+    "translation": ["money"],
+    "eg_de": ["Du gibst viel Geld aus."],
+    "eg_en": ["You spend a lot of money."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 241,
+    "word": "Paar",
+    "type": "das",
+    "translation": ["pair", "couple"],
+    "eg_de": ["Zwei Schuhe machen ein Paar."],
+    "eg_en": ["Two shoes make a pair."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 245,
+    "word": "Wasser",
+    "type": "das",
+    "translation": ["water"],
+    "eg_de": ["Ich trinke nur Wasser."],
+    "eg_en": ["I only drink water."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 250,
+    "word": "Kopf",
+    "type": "der",
+    "translation": ["head"],
+    "eg_de": ["Auf dem Hals befindet sich der Kopf."],
+    "eg_en": ["On the neck is the head."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 253,
+    "word": "Bild",
+    "type": "das",
+    "translation": ["picture"],
+    "eg_de": ["Clarita malt gerne Bilder von Blumen."],
+    "eg_en": ["Clarita likes to paint pictures of flowers."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 259,
+    "word": "treffen",
+    "type": "verb",
+    "translation": ["meet"],
+    "eg_de": ["Morgen treffe ich mich mit einigen Freunden."],
+    "eg_en": ["Tomorrow I’m meeting some friends."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 262,
+    "word": "Geschichte",
+    "type": "die",
+    "translation": ["history", "story"],
+    "eg_de": ["Ich lese und schreibe gerne Geschichten"],
+    "eg_en": ["I like to read and write stories."],
+    "tag": ["b11","b11w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 266,
+    "word": "neben",
+    "type": "prep",
+    "translation": ["next to", "beside"],
+    "eg_de": ["Max steht neben Anja."],
+    "eg_en": ["Max is standing next to Anja."],
+    "tag": ["8", "w3", "a12w1"]
+  },
+  {
+    "rank": 267,
+    "word": "allein",
+    "type": "adv",
+    "translation": ["alone"],
+    "eg_de": ["Ohne Freunde ist man allein."],
+    "eg_en": ["Without friends, you’re alone."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 268,
+    "word": "Abbildung",
+    "type": "die",
+    "translation": ["illustration"],
+    "eg_de": ["Die Abbildung Nummer eins zeigt ein gutes Beispiel."],
+    "eg_en": ["Figure number one shows a good example."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 269,
+    "word": "hinter",
+    "type": "prep",
+    "translation": ["behind", "in back of"],
+    "eg_de": ["Der Garten ist hinter dem Haus."],
+    "eg_en": ["The garden is behind the house."],
+    "tag": ["8", "w3", "a12w1"]
+  },
+  {
+    "rank": 270,
+    "word": "besonders",
+    "type": "adv",
+    "translation": ["particularly"],
+    "eg_de": ["Das Spiel ist heute besonders spannend."],
+    "eg_en": ["The game is particularly exciting today."],
+    "tag": ["8", "w3", "a12", "a12w1"]
+  },
+  {
+    "rank": 271,
+    "word": "tragen",
+    "type": "verb",
+    "translation": ["carry", "wear"],
+    "eg_de": ["Ich trage eine Hose."],
+    "eg_en": ["I’m wearing pants."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 272,
+    "word": "kaum",
+    "type": "adv",
+    "translation": ["hardly"],
+    "eg_de": ["Das Licht ist so hell, ich kann kaum etwas sehen."],
+    "eg_en": ["The light is so bright I can hardly see anything."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 273,
+    "word": "Freund",
+    "type": "der",
+    "translation": ["friend"],
+    "eg_de": ["Elsbeth ist eine gute Freundin."],
+    "eg_en": ["Elsbeth is a good friend."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 276,
+    "word": "Stunde",
+    "type": "die",
+    "translation": ["hour"],
+    "eg_de": ["Eine Stunde hat 60 Minuten"],
+    "eg_en": ["An hour has 60 minutes."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 288,
+    "word": "lernen",
+    "type": "verb",
+    "translation": ["learn"],
+    "eg_de": ["Wir lernen Deutsch."],
+    "eg_en": ["We’re learning German."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 293,
+    "word": "suchen",
+    "type": "verb",
+    "translation": ["search", "look for"],
+    "eg_de": ["Lisett sucht einen guten Job."],
+    "eg_en": ["Lisett’s looking for a good job."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 300,
+    "word": "Buch",
+    "type": "das",
+    "translation": ["book"],
+    "eg_de": ["Natasha liest gerade ein gutes Buch."],
+    "eg_en": ["Natasha is reading a good book."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 301,
+    "word": "bisschen",
+    "type": "pron",
+    "translation": ["little"],
+    "eg_de": ["Mein Bein schmerzt morgens ein bisschen."],
+    "eg_en": ["My leg hurts a little in the morning."],
+    "tag": ["5", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 305,
+    "word": "lesen",
+    "type": "verb",
+    "context": null,
+    "translation": ["read"],
+    "extra": "(conj. lesen / lesend / gelesen)(mit. Akkusativ)",
+    "eg_de": ["Ich lese viele Bücher."],
+    "eg_en": ["I read a lot of books."],
+    "tag": ["3", "w1", "a12", "a12w2"]
+  },
+  {
+    "rank": 306,
+    "word": "Blick",
+    "type": "der",
+    "translation": ["look", "view", "glance"],
+    "eg_de": ["Aus deinem Fenster hat man einen schönen Blick über die Stadt."],
+    "eg_en": ["Your window has a nice view over the city."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 309,
+    "word": "erreichen",
+    "type": "verb",
+    "translation": ["achieve", "reach"],
+    "eg_de": ["Ich erreiche alle meine Ziele."],
+    "eg_en": ["I achieve all my goals."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 325,
+    "word": "Nacht",
+    "type": "die",
+    "translation": ["night"],
+    "eg_de": ["Die Nacht ist dunkel und grau."],
+    "eg_en": ["The night is dark and gray."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 325,
+    "word": "nachts",
+    "type": "adv",
+    "translation": ["at night", "nights"],
+    "eg_de": ["Ich arbeite immer nur nachts."],
+    "eg_en": ["I only work nights."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 326,
+    "word": "Platz",
+    "type": "der",
+    "translation": ["place", "room", "square"],
+    "eg_de": ["Mein Haus hat genug Platz für acht Personen."],
+    "eg_en": ["My house has enough room for eight people."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 327,
+    "word": "schlecht",
+    "type": "adj",
+    "translation": ["bad"],
+    "eg_de": ["Dein Atem riecht schlecht."],
+    "eg_en": ["Your breath smells bad."],
+    "tag": ["5", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 338,
+    "word": "helfen",
+    "type": "verb",
+    "context": null,
+    "translation": ["help"],
+    "extra": "(conj. helfen / helfend / geholfen)(mit. Dativ)",
+    "eg_de": ["Oliver hilft Tim jeden Sonntag bei seinen Aufgaben für die Schule."],
+    "eg_en": ["Oliver helps Tim with his assignments for school every Sunday."],
+    "tag": ["3", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 341,
+    "word": "Ort",
+    "type": "der",
+    "translation": ["place", "town", "location"],
+    "eg_de": ["Die Kirche ist ein friedlicher Ort."],
+    "eg_en": ["The church is a peaceful place."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 342,
+    "word": "Abend",
+    "type": "der",
+    "translation": ["evening"],
+    "eg_de": ["Wir gehen morgen Abend ins Kino"],
+    "eg_en": ["We’re going to the movies tomorrow evening."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 342,
+    "word": "abends",
+    "type": "adv",
+    "translation": ["in the evening"],
+    "eg_de": ["Abends lese ich meinem Kind immer eine Geschichte vor"],
+    "eg_en": ["I always read my child a story in the evening."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 344,
+    "word": "Stelle",
+    "type": "die",
+    "translation": ["place"],
+    "eg_de": ["Sein Name steht an erster Stelle."],
+    "eg_en": ["His name is in the first place."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 359,
+    "word": "Schule",
+    "type": "die",
+    "translation": ["school"],
+    "eg_de": ["In Deutschland muss jedes Kind zur Schule gehen."],
+    "eg_en": ["In Germany every child has to go to school."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 364,
+    "word": "warten",
+    "type": "verb",
+    "translation": ["wait"],
+    "eg_de": ["Ich warte am Bahnhof auf dich."],
+    "eg_en": [" I’ll wait for you at the station."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 366,
+    "word": "früh",
+    "type": "adj",
+    "translation": ["early"],
+    "eg_de": ["Ich muss früh aufstehen."],
+    "eg_en": ["I have to get up early."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 368,
+    "word": "reden",
+    "type": "verb",
+    "translation": ["talk"],
+    "eg_de": ["Er hat jetzt keine Lust, darüber zu reden."],
+    "eg_en": ["He doesn’t want to talk about it now."],
+    "tag": ["5", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 378,
+    "word": "meiste",
+    "type": "adj",
+    "translation": ["most"],
+    "eg_de": ["Am meisten gefällt mir das rote Kleid."],
+    "eg_en": ["I like the red dress the most."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 382,
+    "word": "manchmal",
+    "type": "adv",
+    "translation": ["sometimes"],
+    "eg_de": ["Das Wetter hier ist nur manchmal schlecht."],
+    "eg_en": ["The weather here is only sometimes bad."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 391,
+    "word": "Straße",
+    "type": "die",
+    "translation": ["street"],
+    "eg_de": ["Ich wohne in einer ruhigen Straße."],
+    "eg_en": ["I live in a quiet street."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 398,
+    "word": "bedeuten",
+    "type": "verb",
+    "translation": ["mean"],
+    "eg_de": ["Was bedeutet dieses Wort?"],
+    "eg_en": ["What does this word mean?"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 418,
+    "word": "Richtung",
+    "type": "die",
+    "translation": ["direction"],
+    "eg_de": ["In welche Richtung müssen wir fahren?"],
+    "eg_en": ["In which direction do we have to drive?"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 436,
+    "word": "Licht",
+    "type": "das",
+    "translation": ["light"],
+    "eg_de": ["Ich brauche ein helleres Licht zum Lesen."],
+    "eg_en": ["I need a brighter light to read."],
+    "tag": ["4", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 437,
+    "word": "ähnlich",
+    "type": "adj",
+    "translation": ["similar"],
+    "eg_de": ["Wir haben ähnliche Interessen."],
+    "eg_en": ["We have similar interests."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 443,
+    "word": "halb",
+    "type": "adj",
+    "translation": ["half"],
+    "eg_de": ["Er ist halb so schwer wie ich."],
+    "eg_en": ["He’s half my weight."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 444,
+    "word": "lachen",
+    "type": "verb",
+    "translation": ["laugh"],
+    "eg_de": ["Die Kinder lachen, weil der Film so lustig ist."],
+    "eg_en": ["The children are laughing because the movie is so funny"],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 446,
+    "word": "sofort",
+    "type": "adv",
+    "translation": ["immediately"],
+    "eg_de": ["Daniel braucht sofort einen Arzt."],
+    "eg_en": ["Daniel needs a doctor immediately"],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 450,
+    "word": "verlassen",
+    "type": "verb",
+    "translation": ["leave"],
+    "eg_de": ["In einem Monat werden sie das Land verlassen"],
+    "eg_en": ["They’ll be leaving the country in a month."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 456,
+    "word": "plötzlich",
+    "type": "adv",
+    "translation": ["suddenly"],
+    "eg_de": ["Plötzlich hört Jakob ein Geräusch."],
+    "eg_en": ["Suddenly Jakob hears a noise."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 457,
+    "word": "danach",
+    "type": "pron",
+    "translation": ["after it", "after that", "afterwards"],
+    "eg_de": ["Ich mache Sport und danach trinke ich viel Wasser."],
+    "eg_en": ["I exercise and after that I drink a lot of water."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 458,
+    "word": "Kraft",
+    "type": "die",
+    "translation": ["strength", "power"],
+    "eg_de": ["Um diese schwere Tasche zu tragen, brauchst du viel Kraft."],
+    "eg_en": ["It takes a lot of strength for you to carry that heavy bag."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 459,
+    "word": "lieber",
+    "type": "adv",
+    "translation": ["rather"],
+    "eg_de": ["Ich würde lieber am Meer wohnen."],
+    "eg_en": ["I’d rather live by the sea."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 460,
+    "word": "gehören",
+    "type": "verb (dat.)",
+    "translation": ["belong"],
+    "eg_de": ["Das Buch gehört mir."],
+    "eg_en": [" The book belongs to me."],
+    "tag": ["1", "w1", "a12", "a12w2"]
+  },
+  {
+    "rank": 461,
+    "word": "einsetzen",
+    "type": "verb",
+    "translation": ["put in", "insert"],
+    "eg_de": ["Setzen Sie die richtigen Wörter in die Lücken im Satz ein."],
+    "eg_en": ["Insert the correct words in the gaps in the sentence."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 462,
+    "word": "Gefühl",
+    "type": "das",
+    "translation": ["feeling"],
+    "eg_de": ["Er verletzt Stefans Gefühle."],
+    "eg_en": ["He hurts Stefan’s feelings."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 463,
+    "word": "trotzdem",
+    "type": "adv",
+    "translation": ["nevertheless"],
+    "eg_de": ["Es ist kalt, aber ich fahre trotzdem mit dem Fahrrad."],
+    "eg_en": ["It is cold, but I’m nevertheless riding my bike."],
+    "tag": ["1", "w1", "a12", "a12w1"]
+  },
+  {
+    "rank": 476,
+    "word": "Markt",
+    "type": "der",
+    "translation": ["market"],
+    "eg_de": ["Jede Woche gibt es hier einen Markt mit Produkten aus der Region."],
+    "eg_en": ["Every week there is a market with products from the region."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 490,
+    "word": "stimmen",
+    "type": "verb",
+    "translation": ["be correct", "vote", "tune"],
+    "eg_de": ["Die Frau sagt, der Stadtplan stimmt"],
+    "eg_en": ["The woman says the City map is correct"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 501,
+    "word": "Wohnung",
+    "type": "die",
+    "translation": ["apartment", "flat"],
+    "eg_de": ["Wir suchen eine neue Wohnung."],
+    "eg_en": ["We’re looking for a new apartment."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 508,
+    "word": "öffnen",
+    "type": "verb",
+    "translation": ["open"],
+    "eg_de": ["Sie öffnet die Tür."],
+    "eg_en": ["She opens the door."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 519,
+    "word": "Kunde",
+    "type": "der",
+    "translation": ["customer", "client"],
+    "eg_de": ["Es kommen viele Kunden in seinen Laden."],
+    "eg_en": ["Many customers come to his shop."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 520,
+    "word": "Menge",
+    "type": "die",
+    "translation": ["quantity", "amount"],
+    "eg_de": ["Diese Milch hat eine gewisse Menge Zucker."],
+    "eg_en": ["This milk has a certain amount of sugar."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 522,
+    "word": "Antwort",
+    "type": "die",
+    "translation": ["answer", "reply"],
+    "eg_de": ["Sie gibt die richtige Antwort auf die Frage des Lehrers."],
+    "eg_en": ["She gives the right answer to the teacher’s question."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 524,
+    "word": "falsch",
+    "type": "adj",
+    "translation": ["false", "wrong"],
+    "eg_de": ["Die Antwort ist leider falsch."],
+    "eg_en": ["Unfortunately, the answer is wrong"],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 526,
+    "word": "langsam",
+    "type": "adj",
+    "translation": ["slow"],
+    "eg_de": ["Das Auto fährt langsam um die Kurve."],
+    "eg_en": ["The car is going around the bend slowly."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 527,
+    "word": "Arm",
+    "type": "der",
+    "translation": ["arm"],
+    "eg_de": ["An der Seite vom Körper sind die Arme."],
+    "eg_en": ["To the side of the body are the arms."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 529,
+    "word": "Tisch",
+    "type": "der",
+    "translation": ["table"],
+    "eg_de": ["Wir sitzen an einem Tisch aus Holz."],
+    "eg_en": ["We are sitting at a wooden table."],
+    "tag": ["6", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 530,
+    "word": "rufen",
+    "type": "verb",
+    "translation": ["call"],
+    "eg_de": ["Die Mutter ruft laut die Kinder, damit sie wieder in das Haus gehen."],
+    "eg_en": ["he mother calls out loudly to the children to go back in the house."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 531,
+    "word": "bieten",
+    "type": "verb",
+    "translation": ["offer"],
+    "eg_de": ["Das neue Museum bietet einen Überblick über moderne Kunst."],
+    "eg_en": ["The new museum offers an overview of modern art."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 533,
+    "word": "zusammen",
+    "type": "adv",
+    "translation": ["together"],
+    "eg_de": ["Sie wohnen zusammen."],
+    "eg_en": ["They live together."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 537,
+    "word": "bevor",
+    "type": "conj",
+    "translation": ["before"],
+    "eg_de": ["Bevor wir in die Bibliothek gehen, trinken wir einen Kaffee."],
+    "eg_en": ["Before we go to the library, we’ll have a cup of coffee."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 541,
+    "word": "Erfolg",
+    "type": "der",
+    "translation": ["success"],
+    "eg_de": ["Ich wünsche dir viel Erfolg bei deinen Prüfungen."],
+    "eg_en": ["I wish you much success in your exams."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 543,
+    "word": "Bank",
+    "type": "die",
+    "translation": ["bank", "bench"],
+    "eg_de": ["Die Bank hat einen neuen Manager."],
+    "eg_en": ["The bank has a new manager."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 548,
+    "word": "Junge",
+    "type": "der",
+    "translation": ["boy"],
+    "eg_de": ["Als Thomas ein kleiner Junge war, weinte er viel."],
+    "eg_en": ["When Thomas was a little boy, he cried a lot."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 550,
+    "word": "Polizei",
+    "type": "die",
+    "translation": ["police"],
+    "eg_de": ["Gehen Sie, sonst rufen wir die Polizei."],
+    "eg_en": [" Go away, or we’re calling the police."],
+    "tag": ["6", "w2", "a12w1"]
+  },
+  {
+    "rank": 551,
+    "word": "Chance",
+    "type": "die",
+    "translation": ["chance"],
+    "eg_de": ["Ich bekomme die Chance auf einen neuen Job."],
+    "eg_en": ["I get a chance at a new job."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 554,
+    "word": "Kunst",
+    "type": "die",
+    "translation": ["art"],
+    "eg_de": ["Das Museum zeigt Kunst aus dem letzten Jahrhundert."],
+    "eg_en": ["The museum shows art from the previous century."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 557,
+    "word": "gesamt",
+    "type": "adj",
+    "translation": ["whole", "entire"],
+    "eg_de": ["Sie verpassen den gesamten Vortrag."],
+    "eg_en": ["They’re missing the entire lecture."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 560,
+    "word": "wohnen",
+    "type": "verb",
+    "translation": ["live"],
+    "eg_de": ["Juliane wohnt in einer großen Stadt."],
+    "eg_en": ["Juliane lives in a big city."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 578,
+    "word": "Gesetz",
+    "type": "das",
+    "translation": ["law"],
+    "eg_de": ["Sie fordern ein neues Gesetz."],
+    "eg_en": ["They’re demanding a new law."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 601,
+    "word": "gefallen",
+    "type": "verb",
+    "translation": ["please"],
+    "extra": "(dative)",
+    "eg_de": ["Svenjas neuer Freund gefällt ihren Eltern sehr gut."],
+    "eg_en": [" Svenja’s new boyfriend pleases her parents very much."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 602,
+    "word": "Mädchen",
+    "type": "das",
+    "translation": ["girl"],
+    "eg_de": ["Das Mädchen heißt Lina und sie geht noch zur Schule."],
+    "eg_en": ["The girl’s called Lina, and she’s still in school."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 605,
+    "word": "ziemlich",
+    "type": "adv",
+    "translation": ["quite", "fairly", "pretty"],
+    "eg_de": ["Sie ist sich ziemlich sicher, dass sie die Prüfung bestanden hat."],
+    "eg_en": ["She’s pretty sure she passed the exam."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 621,
+    "word": "Morgen",
+    "type": "der",
+    "translation": ["morning"],
+    "eg_de": ["Bei uns gibt es jeden Morgen Frühstück."],
+    "eg_en": ["We have breakfast every morning."],
+    "tag": ["4", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 621,
+    "word": "morgens",
+    "type": "adv",
+    "translation": ["in the morning"],
+    "eg_de": ["Morgens geht die Sonne auf."],
+    "eg_en": ["The sun rises in the morning."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 622,
+    "word": "Arzt",
+      "type": "der",
+    "translation": ["physician", "doctor"],
+    "eg_de": ["Die Ärztin gibt ihm ein Medikament."],
+    "eg_en": ["The doctor gives him a medication."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 634,
+    "word": "trinken",
+    "type": "verb",
+    "translation": ["drink"],
+    "eg_de": ["Ich trinke keinen Kaffee."],
+    "eg_en": ["I don’t drink coffee."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 643,
+    "word": "leider",
+    "type": "adv",
+    "translation": ["unfortunately"],
+    "eg_de": ["Daniel wollte kommen, aber er ist leider krank"],
+    "eg_en": ["Daniel wanted to come, but unfortunately he’s ill."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 665,
+    "word": "Zimmer",
+    "type": "das",
+    "translation": ["room"],
+    "eg_de": ["Ich suche ein kleines Zimmer in Berlin."],
+    "eg_en": ["I’m looking for a small room in Berlin."],
+    "tag": ["6", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 670,
+    "word": "Zeitung",
+    "type": "die",
+    "translation": ["newspaper"],
+    "eg_de": ["Jeden Morgen lese ich Zeitung."],
+    "eg_en": ["I read the newspaper every morning."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 674,
+    "word": "Fenster",
+    "type": "das",
+    "translation": ["window"],
+    "eg_de": ["Kannst du bitte das Fenster öffnen?"],
+    "eg_en": [" Could you open the window, please?"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 675,
+    "word": "Zug",
+    "type": "der",
+    "translation": ["train"],
+    "eg_de": ["Der Zug kommt um zwölf Uhr an."],
+    "eg_en": ["The train arrives at twelve o’clock."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 679,
+    "word": "schlafen",
+    "type": "verb",
+    "translation": ["sleep"],
+    "eg_de": ["Hast du gut geschlafen?"],
+    "eg_en": ["Did you sleep well?"],
+    "tag": ["6", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 680,
+    "word": "statt",
+    "type": "prep",
+    "translation": ["instead of"],
+    "eg_de": ["Ich koche lieber zu Hause, statt in ein Restaurant zu gehen."],
+    "eg_en": ["I prefer cooking at home instead of going to a restaurant."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 681,
+    "word": "Werk",
+    "type": "das",
+    "translation": ["work", "achievement"],
+    "eg_de": ["Ich mag die Werke dieses Künstlers."],
+    "eg_en": ["I like this artist’s work."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 695,
+    "word": "Lehrer",
+    "type": "der",
+    "translation": ["teacher"],
+    "eg_de": ["Wir haben einen neuen Lehrer an unserer Schule."],
+      "eg_en": ["We have a new teacher at our school."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 698,
+    "word": "Einführung",
+    "type": "die",
+    "translation": ["introduction"],
+    "eg_de": ["Heute beschäftigen wir uns mit der Einführung in ein neues Thema."],
+    "eg_en": ["Today we are dealing with an introduction to a new topic."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 706,
+    "word": "dunkel",
+    "type": "adj",
+    "translation": ["dark"],
+    "eg_de": ["In der Nacht ist es dunkel, am Morgen ist es hell."],
+    "eg_en": ["It’s dark at night and light in the morning."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 711,
+    "word": "Mitte",
+    "type": "die",
+    "translation": ["middle"],
+    "eg_de": ["Anita steht zwischen Sven und Torben, genau in der Mitte."],
+    "eg_en": ["Anita stands between Sven and Torben, right in the middle."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 721,
+    "word": "verkaufen",
+    "type": "verb",
+    "translation": ["sell"],
+    "eg_de": ["Hildegart verkauft auf dem Markt frische Eier."],
+    "eg_en": ["Hildegart sells fresh eggs at the market."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 722,
+    "word": "reagieren",
+    "type": "verb",
+    "translation": ["react"],
+    "eg_de": ["Mario reagiert wütend, als er von dem Ergebnis des Spiels erfährt."],
+    "eg_en": ["Mario reacts angrily when he hears about the result of the game."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 724,
+    "word": "kriegen",
+    "type": "verb (informal)",
+    "translation": ["get","receive"],
+    "eg_de": ["Das Restaurant kriegt positive Bewertungen von seinen Gästen."],
+    "eg_en": ["The restaurant gets positive ratings from its guests."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 727,
+    "word": "Größe",
+    "type": "die",
+    "translation": ["size", "height"],
+    "eg_de": ["Steffen hat in Schuhen die Größe 43."],
+    "eg_en": ["Steffen wears size 43 shoes"],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 734,
+    "word": "Reise",
+    "type": "die",
+    "translation": ["journey", "trip"],
+    "eg_de": ["Im März unternehmen Ann-Katrin und Dominik eine Reise nach Thailand."],
+    "eg_en": ["In March Ann-Katrin and Dominik will make a journey to Thailand."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 737,
+    "word": "wahr",
+    "type": "adj",
+    "translation": ["true"],
+    "eg_de": ["Die Aussage ist wahr, wenn man sie beweisen kann."],
+    "eg_en": ["The statement is true if you can prove it."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 756,
+    "word": "überall",
+    "type": "adv",
+    "translation": ["everywhere"],
+    "eg_de": ["In der Stadt sieht man zu dieser Zeit überall Touristen."],
+    "eg_en": ["In the city you see tourists everywhere at this time."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 765,
+    "word": "Geschäft",
+    "type": "das",
+    "translation": ["business", "shop"],
+    "eg_de": ["In der Stadt öffnet ein Geschäft für Schuhe."],
+    "eg_en": [" In the city a shoe shop is opening"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 768,
+    "word": "Angabe",
+    "type": "die",
+    "translation": ["information", "statement"],
+    "eg_de": ["In dieses Feld musst du deine persönlichen Angaben eintragen."],
+    "eg_en": ["In this field you have to enter your personal information."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 783,
+    "word": "Erde",
+    "type": "die",
+    "translation": ["earth", "ground", "soil"],
+    "eg_de": ["Die Erde wird auch blauer Planet genannt."],
+    "eg_en": [".Earth is also called the blue planet."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 793,
+    "word": "bezahlen",
+    "type": "verb",
+    "translation": ["pay"],
+    "eg_de": ["Wie viel hast du bezahlt?"],
+    "eg_en": ["How much did you pay?"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 819,
+    "word": "Ebene",
+    "type": "die",
+    "translation": ["plane", "level"],
+    "eg_de": ["Auf politischer Ebene haben wir unterschiedliche Meinungen."],
+    "eg_en": ["We have different opinions at the political level."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 820,
+    "word": "besuchen",
+    "type": "verb",
+    "translation": ["visit"],
+    "eg_de": ["Sie besuchen sich regelmäßig."],
+    "eg_en": ["They visit each other regularly."],
+    "tag": ["8", "w3", "a12", "a12w2"]
+  },
+  {
+    "rank": 821,
+    "word": "gestern",
+    "type": "adv",
+    "translation": ["yesterday"],
+    "eg_de": ["Gestern habe ich einen Freund getroffen."],
+    "eg_en": ["Yesterday I met a friend."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 822,
+    "word": "Spieler",
+    "type": "der",
+    "translation": ["player"],
+    "eg_de": ["Wir haben viele gute Spielerinnen in unserem Team."],
+    "eg_en": ["We have many good players on our team."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 823,
+    "word": "absolut",
+    "type": "adj",
+    "translation": ["absolute", "complete"],
+    "eg_de": ["Ich vertraue dir absolut."],
+    "eg_en": ["I trust you completely."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 824,
+    "word": "fliegen",
+    "type": "verb",
+    "translation": ["fly"],
+    "eg_de": ["Der Vogel fliegt auf den Baum."],
+    "eg_en": ["The bird flies up the tree."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 825,
+    "word": "Hund",
+    "type": "der",
+    "translation": ["dog"],
+    "eg_de": ["Mein Hund ist mein bester Freund."],
+    "eg_en": ["My dog is my best friend."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 852,
+    "word": "Meer",
+    "type": "das",
+    "translation": ["sea", "ocean"],
+    "eg_de": ["Der Ort liegt direkt am Meer und viele der Menschen verdienen sich ihr Geld mit Fisch."],
+    "eg_en": ["The town is located directly on the sea and many of the people make their living from fish"],
+    "tag": ["2", "w1", "a12", "a12w2"]
+  },
+  {
+    "rank": 857,
+    "word": "berechnen",
+    "type": "verb",
+    "translation": ["calculate", "charge"],
+    "eg_de": ["Sie berechnen die Kosten für das Projekt."],
+    "eg_en": ["They calculate the costs of the project."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 859,
+    "word": "fremd",
+    "type": "adj",
+    "translation": ["foreign", "strange"],
+    "eg_de": ["Sie zieht in eine fremde Stadt."],
+    "eg_en": ["She’s moving to a foreign city."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 864,
+    "word": "Sonne",
+    "type": "die",
+    "translation": ["sun"],
+    "eg_de": ["Du solltest deine Haut vor der Sonne schützen."],
+    "eg_en": ["You should protect your skin from the sun."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 865,
+    "word": "Prinzip",
+    "type": "das",
+    "translation": ["principle"],
+    "eg_de": ["Wir essen aus Prinzip kein Fleisch."],
+    "eg_en": ["We don’t eat meat on principle."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 866,
+    "word": "vorher",
+    "type": "adv",
+    "translation": ["earlier", "beforehand"],
+    "eg_de": ["Heute bekommen wir Besuch, vorher mache ich sauber."],
+    "eg_en": ["We’re having guests today, beforehand I’ll be cleaning up."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 972,
+    "word": "toll",
+    "type": "adj",
+    "translation": ["great", "terrific"],
+    "eg_de": ["Wir hatten eine tolle Reise nach Prag."],
+    "eg_en": ["We had a great trip to Prague."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 873,
+    "word": "Temperatur",
+    "type": "die",
+    "translation": ["temperature"],
+    "eg_de": ["Die Temperaturen werden weiter steigen."],
+    "eg_en": ["Temperatures will continue to rise."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 874,
+    "word": "leer",
+    "type": "adj",
+    "translation": ["empty"],
+    "eg_de": ["Die Flasche ist leer."],
+    "eg_en": ["The bottle is empty."],
+    "tag": ["8", "w3", "a12", "a12w1"]
+  },
+  {
+    "rank": 884,
+    "word": "Bein",
+    "type": "das",
+    "translation": ["leg"],
+    "eg_de": ["Er hat sehr lange Beine."],
+    "eg_en": ["He has very long legs."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 892,
+    "word": "Kirche",
+    "type": "die",
+    "translation": ["church"],
+    "eg_de": ["Sie heiraten in einer alten Kirche."],
+    "eg_en": ["They’re getting married in an old church."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 895,
+    "word": "bislang",
+    "type": "adv",
+    "translation": ["up to now"],
+    "eg_de": ["Bislang gibt es keine Informationen zu dem Unfall."],
+    "eg_en": ["Up to now there is no information about this accident."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 896,
+    "word": "messen",
+    "type": "verb",
+    "translation": ["measure"],
+    "eg_de": ["Wir messen die Temperatur."],
+    "eg_en": ["We measure the temperature."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 897,
+    "word": "lieb",
+    "type": "adj",
+    "translation": ["dear"],
+    "eg_de": ["kind Er ist ein sehr liebes Kind."],
+    "eg_en": ["He’s a very dear child."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 918,
+    "word": "Nähe",
+    "type": "die",
+    "translation": ["vicinity", "proximity"],
+    "eg_de": ["Aufgrund ihrer Nähe zum Bahnhof ist die Wohnung teuer."],
+    "eg_en": ["Due to its proximity to the railway station, the apartment is expensive."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 934,
+    "word": "Berg",
+    "type": "der",
+    "translation": ["mountain"],
+    "eg_de": ["Die Zugspitze ist der höchste Berg Deutschlands."],
+    "eg_en": ["The Zugspitze is the highest mountain in Germany."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 947,
+    "word": "Nachfrage",
+    "type": "die",
+    "translation": ["demand", "request", "inquiry"],
+    "eg_de": ["Die Nachfrage nach lokalen Lebensmitteln ist enorm"],
+    "eg_en": ["The demand for local food is enormous."],
+    "tag": ["6", "w2"]
+  },
+  {
+    "rank": 989,
+    "word": "Ruhe",
+    "type": "die",
+    "translation": ["silence", "peace"],
+    "eg_de": ["In der Bibliothek herrscht Ruhe."],
+    "eg_en": ["In the library there is silence."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1013,
+    "word": "Baum",
+    "type": "der",
+    "translation": ["tree"],
+    "eg_de": ["Im Wald stehen viele Bäume."],
+    "eg_en": ["There are many trees in a forest."],
+    "tag": ["6", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 1022,
+    "word": "Abstand",
+    "type": "der",
+    "translation": ["distance"],
+    "eg_de": ["Der Abstand zwischen den Punkten beträgt zehn Meter."],
+    "eg_en": ["The distance between the dots is ten meters."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 1028,
+    "word": "Wald",
+    "type": "der",
+    "translation": ["forest", "woods"],
+    "eg_de": ["In diesem Wald gibt es viele verschiedene Bäume."],
+    "eg_en": ["There are many different trees in this forest."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1036,
+    "word": "Beruf",
+    "type": "der",
+    "translation": ["occupation", "job", "profession"],
+    "eg_de": ["Sie mag ihren Beruf als Schauspielerin sehr."],
+    "eg_en": ["She likes her job as an actress very much."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1038,
+    "word": "nötig",
+    "type": "adj",
+    "translation": ["necessary"],
+    "eg_de": ["Ihm fehlen die nötigen Fähigkeiten für den Job."],
+    "eg_en": ["He lacks the necessary skills for the job."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1041,
+    "word": "Küche",
+    "type": "die",
+    "translation": ["kitchen", "cuisine"],
+    "eg_de": ["Die Wohnung hat zwei Zimmer, ein Bad und eine Küche."],
+    "eg_en": ["The apartment has two rooms, a bathroom and a kitchen."],
+    "tag": ["5", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 1060,
+    "word": "Rücken",
+    "type": "der",
+    "translation": ["back"],
+    "eg_de": ["Ich liege auf dem Rücken und schaue zur Decke"],
+    "eg_en": ["I’m lying on my back looking at the ceiling."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 1065,
+    "word": "Inhalt",
+    "type": "der",
+    "translation": ["content", "plot"],
+    "eg_de": ["Die Schüler fassen den Inhalt des Buches zusammen."],
+    "eg_en": ["The students summarize the contents of the book."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1066,
+    "word": "scheitern",
+    "type": "verb",
+    "translation": ["fail", "break down"],
+    "eg_de": ["Er ist mit seinen Plänen gescheitert."],
+    "eg_en": ["He failed in his plans."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1067,
+    "word": "Ereignis",
+    "type": "das",
+    "translation": ["event"],
+    "eg_de": ["Ein Geburtstag ist immer ein fröhliches Ereignis."],
+    "eg_en": ["A birthday is always a happy event."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1068,
+    "word": "lediglich",
+    "type": "adv",
+    "translation": ["merely"],
+    "eg_de": ["Ich erfülle lediglich meine Pflicht."],
+    "eg_en": ["I’m merely fulfilling my duty."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1069,
+    "word": "organisch",
+    "type": "adj",
+    "translation": ["organic"],
+    "eg_de": ["Sie verwenden ausschließlich organische Produkte."],
+    "eg_en": ["They use exclusively organic products."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1070,
+    "word": "glücklich",
+    "type": "adj",
+    "translation": ["happy", "fortunate"],
+    "eg_de": ["Thomas ist ein glückliches Kind."],
+    "eg_en": ["Thomas is a happy child."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1071,
+    "word": "Rest",
+    "type": "der",
+    "translation": ["rest", "remainder", "balance"],
+    "eg_de": ["Du kannst den Rest vom Essen haben."],
+    "eg_en": ["You can have the rest of the food."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1072,
+    "word": "Wunsch",
+    "type": "der",
+    "translation": ["wish"],
+    "eg_de": ["Sein Wunsch ist es, Arzt zu werden."],
+    "eg_en": ["His wish is to become a doctor."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1073,
+    "word": "beschließen",
+    "type": "verb",
+    "translation": ["decide"],
+    "eg_de": ["Sie beschließen, ein Haus zu kaufen."],
+    "eg_en": ["They decide to buy a house."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1074,
+    "word": "dick",
+    "type": "adj",
+    "translation": ["thick", "fat"],
+    "eg_de": ["Mein dicker Hund muss abnehmen."],
+    "eg_en": ["My fat dog needs to lose weight."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1075,
+    "word": "riesig",
+    "type": "adj",
+    "translation": ["huge, great, tremendous, giant, massive, humongous, enormous"],
+    "eg_de": ["Ich habe ein riesiges Geschenk bekommen."],
+    "eg_en": ["I received a huge gift."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1076,
+    "word": "heutig",
+    "type": "adj",
+    "translation": ["present-day, today's"],
+    "eg_de": ["Die heutigen Studenten schreiben fast nicht mehr mit der Hand."],
+    "eg_en": ["Today’s students almost never write by hand anymore."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1077,
+    "word": "hallo",
+    "type": "part",
+    "translation": ["hello"],
+    "eg_de": ["Hallo, ich bin Jana."],
+    "eg_en": ["Hello, I’m Jana."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1079,
+    "word": "Farbe",
+    "type": "die",
+    "translation": ["color"],
+    "eg_de": ["Die Kinder malen gern mit bunten Farben."],
+    "eg_en": ["The children like to paint with bright colors."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1145,
+    "word": "Zentrum",
+    "type": "das",
+    "translation": ["center"],
+    "eg_de": ["Dirk arbeitet im Zentrum der Stadt."],
+    "eg_en": ["Dirk works in the center of town."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 1155,
+    "word": "Zeichen",
+    "type": "das",
+    "translation": ["sign"],
+    "eg_de": ["Was bedeutet dieses Zeichen?"],
+    "eg_en": ["What does this sign mean?"],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1158,
+    "word": "Garten",
+    "type": "der",
+    "translation": ["garden"],
+    "eg_de": ["Sie sitzt auf einer Bank im Garten"],
+    "eg_en": ["She’s sitting on a bench in the garden."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1239,
+    "word": "ausmachen",
+    "type": "verb",
+    "translation": ["turn off", "put out", "agree"],
+    "eg_de": ["Die Frau macht den Navigator aus.", "Wir müssen ein Datum ausmachen."],
+    "eg_en": ["The woman turns off the GPS","We have to agree on a date."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 1276,
+    "word": "danken",
+    "type": "verb (dat.)",
+    "translation": ["thank"],
+    "eg_de": ["Ich möchte mich für ihre Aufmerksamkeit bedanken!"],
+    "eg_en": ["I would like to thank you for your attention!"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 1283,
+    "word": "Nachbar",
+    "type": "der",
+    "translation": ["neighbor"],
+    "eg_de": ["Wenn unsere Nachbarn kochen, kann man es im ganzen Haus riechen"],
+    "eg_en": ["When our neighbors cook, you can smell it in the entire house."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1317,
+    "word": "See",
+    "type": "der",
+    "translation": ["lake"],
+    "eg_de": ["Sie füttert die Fische im See."],
+    "eg_en": ["She is feeding the fishes in the lake."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 1343,
+    "word": "individuell",
+    "type": "adj",
+    "translation": ["individual"],
+    "eg_de": ["Jeder Kunde hat individuelle Wünsche."],
+    "eg_en": ["Every customer has individual wishes."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1365,
+    "word": "riechen",
+    "type": "verb",
+    "translation": ["smell"],
+    "eg_de": ["Die Blumen riechen gut."],
+    "eg_en": ["The flowers smell good."],
+    "tag": ["7", "w2"]
+  },
+  {
+    "rank": 1376,
+    "word": "Ecke",
+    "type": "die",
+    "translation": ["corner"],
+    "eg_de": ["An der Ecke der Straße ist eine Schule."],
+    "eg_en": ["At the corner of the street is a school."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 1458,
+    "word": "ungefähr",
+    "type": "adj",
+    "translation": ["approximately"],
+    "eg_de": ["Die Fahrt dauert ungefähr drei Stunden."],
+    "eg_en": ["The journey takes about three hours."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1460,
+    "word": "üblich",
+    "type": "adj",
+    "translation": ["usual"],
+    "eg_de": ["Er geht zu seiner üblichen Zeit ins Bett."],
+    "eg_en": ["He goes to bed at his usual time."],
+    "tag": ["8", "w3", "a12", "a12w2"]
+  },
+  {
+    "rank": 1464,
+    "word": "Nachmittag",
+    "type": "der",
+    "translation": ["afternoon"],
+    "eg_de": ["Lass uns heute Nachmittag in den Park gehen."],
+    "eg_en": ["Let’s go to the park this afternoon."],
+    "tag": ["8", "w3"]
+  },
+  {
+    "rank": 1468,
+    "word": "Spiegel",
+    "type": "der",
+    "translation": ["mirror"],
+    "eg_de": ["Ich betrachte mein Gesicht im Spiegel."],
+    "eg_en": ["I look at my face in the mirror."],
+    "tag": ["8", "w3", "a12","a12w1"]
+  },
+  {
+    "rank": 1494,
+    "word": "woher",
+    "type": "pron",
+    "translation": ["from where", "how"],
+    "eg_de": ["Woher kommst du?"],
+    "eg_en": ["Where are you from?"],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 1530,
+    "word": "wenden",
+    "type": "verb",
+    "translation": ["turn around"],
+    "eg_de": ["Gabi wendet das Auto und fährt wieder zurück."],
+    "eg_en": [" Gabi turns the car around and drives back."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1565,
+    "word": "nett",
+    "type": "adj",
+    "translation": ["nice"],
+    "eg_de": ["Bernadette ist eine wirklich nette Person."],
+    "eg_en": ["Bernadette is a really nice person."],
+    "tag": ["5", "w2", "a12", "a12w2"]
+  },
+  {
+    "rank": 1570,
+    "word": "Urlaub",
+    "type": "der",
+    "translation": ["vacation"],
+    "eg_de": ["Nach meinem Abschluss nehme ich mir einen langen Urlaub."],
+    "eg_en": ["After graduation, I’m going on a long vacation."],
+    "tag": ["5", "w2", "a12", "a12w1"]
+  },
+  {
+    "rank": 1599,
+    "word": "Keller",
+    "type": "der",
+    "translation": ["cellar"],
+    "eg_de": ["Wir lagern unseren Wein im Keller."],
+    "eg_en": ["We store our wine in the cellar."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 1618,
+    "word": "schenken",
+    "type": "verb",
+    "translation": ["gift", "donate", "bestow"],
+    "eg_de": ["Sie schenkt ihrer Mutter ein Buch zum Geburtstag"],
+    "eg_en": ["She’s giving her mother a book for her birthday."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1637,
+    "word": "Bad",
+    "type": "das",
+    "translation": ["bath", "bathroom", "spa"],
+    "eg_de": ["Die neue Wohnung hat zwei Bäder."],
+    "eg_en": ["The new apartment has two bathrooms."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1648,
+    "word": "sicherlich",
+    "type": "adv",
+    "translation": ["certainly"],
+    "eg_de": ["Auch wenn die Bahn schon über eine Stunde zu spät ist, kommt sie sicherlich noch."],
+    "eg_en": ["Even if the train is over an hour too late, it is certainly still coming."],
+    "tag": ["b11","b11w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1665,
+    "word": "rauchen",
+    "type": "verb",
+    "translation": ["smoke"],
+    "eg_de": ["In den meisten Restaurants darf man nicht mehr Zigaretten rauchen"],
+    "eg_en": ["In most restaurants you are no longer allowed to smoke cigarettes."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 1684,
+    "word": "zurück",
+    "type": "adv",
+    "translation": ["back"],
+    "eg_de": ["Jan kommt aus dem Urlaub zurück nach Hause."],
+    "eg_en": ["Jan comes back home from vacation."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 1669,
+    "word": "Landschaft",
+    "type": "die",
+    "translation": ["landscape", "countryside"],
+    "eg_de": ["Die Landschaft außerhalb von Leipzig ist sehr grün und schön."],
+    "eg_en": ["The landscape outside Leipzig is very green and beautiful."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1733,
+    "word": "Lied",
+    "type": "das",
+    "translation": ["song"],
+    "eg_de": ["Wir singen für sie ein Lied zu ihrem Geburtstag."],
+    "eg_en": ["We’ll sing her a song for her birthday."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 1780,
+    "word": "Kleid",
+    "type": "das",
+    "translation": ["dress"],
+    "eg_de": ["Linda sieht sehr gut aus in ihrem neuen Kleid."],
+    "eg_en": ["Linda looks very good in her new dress."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 1783,
+    "word": "Brust",
+    "type": "die",
+    "translation": ["breast", "chest"],
+    "eg_de": ["Die Mutter drückt das Baby an ihre Brust."],
+    "eg_en": ["The mother presses the baby to her breast"],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 1729,
+    "word": "zufällig",
+    "type": "adj",
+    "translation": ["accidental", "by chance", "coincidentally"],
+    "eg_de": ["Nora trifft beim Einkaufen zufällig ihren Bruder."],
+    "eg_en": ["Nora meets her brother by chance while shopping."],
+    "tag": ["1", "w1"]
+  },
+  {
+    "rank": 1802,
+    "word": "Restaurant",
+    "type": "das",
+    "translation": ["restaurant"],
+    "eg_de": ["Wir gehen zum Abendessen in ein Restaurant."],
+    "eg_en": ["We’re going to a restaurant for dinner."],
+    "tag": ["a12w1"]
+  },
+    {
+    "rank": 1804,
+    "word": "Tasche",
+    "type": "die",
+    "translation": ["pocket", "bag"],
+    "eg_de": ["Ich verreise am liebsten mit nur einer Tasche."],
+    "eg_en": ["I prefer to travel with only one bag."],
+    "tag": ["2", "w1", "a12", "a12w2"]
+  },
+  {
+    "rank": 1811,
+    "word": "wohin",
+    "type": "pron",
+    "context": "direction",
+    "translation": ["where"],
+    "eg_de": ["Wohin gehen wir heute Abend?"],
+    "eg_en": ["Where are we going tonight?"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1835,
+    "word": "ausgerechnet",
+    "type": "adv",
+    "translation": ["of all people", "of all times"],
+    "eg_de": ["Warum muss ich ausgerechnet heute krank werden?"],
+    "eg_en": ["Why do I have to get ill today of all days?"],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 1875,
+    "word": "komisch",
+    "type": "adj",
+    "translation": ["weird", "strange", "odd", "funny"],
+    "eg_de": ["Das kommt mir komisch vor."],
+    "eg_en": ["That seems odd to me."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1881,
+    "word": "Wetter",
+    "type": "das",
+    "translation": ["weather"],
+    "eg_de": ["Heute ist schönes Wetter, die Sonne scheint."],
+    "eg_en": ["Today is beautiful weather; the sun is shining."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 1907,
+    "word": "Schloss",
+    "type": "das",
+    "translation": ["castle", "lock"],
+    "eg_de": ["Janina und Felix heiraten auf einem alten Schloss."],
+    "eg_en": ["Janina and Felix get married in an old castle."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 1923,
+    "word": "verbergen",
+    "type": "verb",
+    "translation": ["hide", "conceal"],
+    "eg_de": ["Katja verbirgt ihre Wut und lächelt."],
+    "eg_en": ["Katja hides her anger and smiles."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 1926,
+    "word": "Post",
+    "type": "die",
+    "translation": ["post office","mail"],
+    "eg_de": ["Nach dem Urlaub liegt im Büro viel Post, die ich beantworten muss."],
+    "eg_en": ["After the vacation there is a lot of mail in the office that I have to answer."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 1931,
+    "word": "Geräusch",
+    "type": "das",
+    "translation": ["sound", "noise"],
+    "eg_de": ["Sie hört, dass das Auto ein komisches Geräusch macht."],
+    "eg_en": ["She hears the car making a funny noise."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 1938,
+    "word": "Brücke",
+    "type": "die",
+    "translation": ["bridge"],
+    "eg_de": ["Die Kinder werfen Steine von der Brücke in den Fluss."],
+    "eg_en": ["The children throw stones from the bridge into the river."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 1950,
+    "word": "Treppe",
+    "type": "die",
+    "translation": ["stairs"],
+    "eg_de": ["In unserem Haus gibt es zwei Treppen."],
+    "eg_en": ["In our house there are two stairs."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 1973,
+    "word": "lustig",
+    "type": "adj",
+    "translation": ["funny", "enjoyable"],
+    "eg_de": ["Alle lachen, weil Anika so lustig ist."],
+    "eg_en": ["Everybody laughs because Anika is so funny."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 1997,
+    "word": "Viertel",
+    "type": "das",
+    "translation": ["quarter", "district"],
+    "eg_de": ["Was kann man in dem Viertel gut machen?", "Jonas wohnt in einem der teuersten Viertel der Stadt"],
+    "eg_en": ["What can you do well in this neighborhood?", "Jonas lives in one of the most expensive districts of the city."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 2020,
+    "word": "Kino",
+    "type": "das",
+    "translation": ["cinema", "movie theater"],
+    "eg_de": ["Im Kino läuft seit Mittwoch ein Film über den Künstler Egon Schiele."],
+    "eg_en": ["Since Wednesday a film about the artist Egon Schiele is showing in the cinema."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 2027,
+    "word": "Bahnhof",
+    "type": "der",
+    "translation": ["train station"],
+    "eg_de": ["Katharina wartet am Bahnhof auf den Zug nach Leipzig."],
+    "eg_en": ["Katharina waits at the station for the train to Leipzig."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 2068,
+    "word": "rennen",
+    "type": "verb",
+    "translation": ["run"],
+    "eg_de": ["Die Kinder rennen sehr schnell, damit sie den Bus nicht verpassen."],
+    "eg_en": ["The children run very fast so they don’t miss the bus."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 2138,
+    "word": "Fahrrad",
+    "type": "das",
+    "translation": ["bicycle"],
+    "eg_de": ["Ich fahre mit dem Fahrrad zur Universität."],
+    "eg_en": ["I ride my bicycle to the university."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 2141,
+    "word": "Park",
+    "type": "der",
+    "translation": ["park"],
+    "eg_de": ["Die Studenten treffen sich im Park, um die Sonne zu genießen."],
+    "eg_en": ["The students meet in the park to enjoy the sun."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 2147,
+    "word": "Bauch",
+    "type": "der",
+    "translation": ["belly"],
+    "eg_de": ["Er schläft lieber auf dem Bauch als auf dem Rücken."],
+    "eg_en": ["He prefers to sleep on his belly rather than his back."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 2180,
+    "word": "Mut",
+    "type": "der",
+    "translation": ["courage"],
+    "eg_de": ["Sie brauchen viel Mut, um im Ausland ein neues Leben zu beginnen. "],
+    "eg_en": ["They need a lot of courage to start a new life abroad."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 2224,
+    "word": "Impuls",
+    "type": "der",
+    "translation": ["stimulus", "impulse"],
+    "eg_de": ["Die Meetings schaffen neue Impulse für die Arbeit der Mitarbeiter."],
+    "eg_en": ["The meetings create new impulses for the employees’ work."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 2273,
+    "word": "Stock",
+    "type": "der",
+    "translation": ["floor", "stick"],
+    "eg_de": ["Sein Büro ist im dritten Stock des Gebäudes."],
+    "eg_en": ["His office on the third floor of the building."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 2305,
+    "word": "Dienstleistung",
+    "type": "die",
+    "translation": ["service"],
+    "eg_de": ["Eine der Dienstleistungen ist es, die Produkte kostenlos zu liefern."],
+    "eg_en": ["It is one of the services to deliver the products for free."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 2317,
+    "word": "Lebensmittel",
+    "pronunciation": "/ˈleːbənsˌmɪtəl/",
+    "type": "das",
+    "translation": ["food"],
+    "eg_de": ["Viele abgelaufene Lebensmittel sind im Grunde noch gut."],
+    "eg_en": ["Many expired foods are basically still good."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 2463,
+    "word": "Blume",
+    "type": "die",
+    "translation": ["flower"],
+    "eg_de": ["Er schenkt ihr Blumen zum Geburtstag."],
+    "eg_en": ["He’s giving her flowers for her birthday."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 2492,
+    "word": "Café",
+    "type": "das",
+    "translation": ["coffeehouse", "coffee shop"],
+    "eg_de": ["Linda trinkt jeden Tag Kaffee im selben Café."],
+    "eg_en": ["Linda drinks coffee every day at the same"],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 2564,
+    "word": "sperren",
+    "type": "verb",
+    "translation": ["cut off", "block", "close"],
+    "eg_de": ["Die Polizei sperrt die Straße, weil ein Unfall passiert ist"],
+    "eg_en": ["The police are blocking the road because an accident has happened."],
+    "tag": ["b11","b11w2"],
+    "context": null,
+    "extra": "(conj.  sperren / sperrend / gesperrt)"
+  },
+  {
+    "rank": 2586,
+    "word": "wütend",
+    "pronunciation": "/ˈvyːtn̩t/",
+    "type": "adj",
+    "translation": ["furious", "angry"],
+    "eg_de": [
+      "Immer wenn Claudia ein Spiel verliert, wird sie wütend."
+    ],
+    "eg_en": ["Whenever Claudia loses a game, she gets angry."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 2656,
+    "word": "Flur",
+    "type": "der",
+    "translation": ["hall", "corridor"],
+    "eg_de": ["Die Gäste ziehen ihre Schuhe im Flur aus."],
+    "eg_en": ["The guests take off their shoes in the hall."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 2687,
+    "word": "Hafen",
+    "type": "der",
+    "translation": ["harbor"],
+    "eg_de": ["Am Hafen liegen Schiffe mit Gütern aus aller Welt."],
+    "eg_en": ["At the harbor are ships with goods from all over the world."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 2771,
+    "word": "Ausländer",
+    "type": "der",
+    "translation": ["foreigner"],
+    "eg_de": ["Die Integration von Ausländern ist in allen modernen Gesellschaften sehr wichtig"],
+    "eg_en": ["The integration of foreigners is very important in all modern societies."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 2877,
+    "word": "einkaufen",
+    "pronunciation": "/ˈaɪ̯nˌkaʊ̯fən/",
+    "type": "verb",
+    "translation": ["shop"],
+    "eg_de": ["Miriam und Ivana kaufen die Lebensmittel für das Abendessen ein."],
+    "eg_en": ["Miriam and Ivana are shopping for the food for dinner."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 2964,
+    "word": "Anerkennung",
+    "type": "die",
+    "translation": ["recognition"],
+    "eg_de": ["Albert Einstein bekam große Anerkennung für seine Erkenntnisse in der Physik."],
+    "eg_en": [" Albert Einstein received great recognition for his findings in physics."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 2981,
+    "word": "Freundschaft",
+    "type": "die",
+    "translation": ["friendship"],
+    "eg_de": ["Laura und Lisa verbindet schon seit 20 Jahren eine enge Freundschaft."],
+    "eg_en": ["Laura and Lisa have shared a close friendship for 20 years."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 3090,
+    "word": "Hügel",
+    "type": "der",
+    "translation": ["hill"],
+    "eg_de": ["Unser Haus steht auf einem Hügel."],
+    "eg_en": [" Our house is on a hill."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 3118,
+    "word": "Turm",
+    "type": "der",
+    "translation": ["tower"],
+    "eg_de": ["Vom Turm aus hat man eine großartige Aussicht auf die Stadt."],
+    "eg_en": ["From the tower you have a great view of the city."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 3318,
+    "word": "harmonisch",
+    "type": "adj",
+    "translation": ["harmonious"],
+    "eg_de": ["Das Instrument hat einen harmonischen Klang."],
+    "eg_en": ["The instrument has a harmonious sound."],
+    "tag": ["b12","b12w1"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 3319,
+    "word": "Kneipe",
+    "type": "die",
+    "translation": ["pub", "bar"],
+    "eg_de": ["Wollen wir heute Abend nach der Arbeit in die Kneipe gehen?"],
+    "eg_en": ["Do you want to go to the pub tonight after work?"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 3371,
+    "word": "Kindergarten",
+    "type": "der",
+    "translation": ["nursery school", "kindergarten"],
+    "eg_de": ["Mathilde geht schon in den Kindergarten."],
+    "eg_en": ["Mathilde is already going to kindergarten."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 3433,
+    "word": "löschen",
+    "type": "verb",
+    "translation": ["put out", "delete"],
+    "eg_de": ["Die Feuerwehr löscht das Feuer."],
+    "eg_en": ["The fire department’s putting out the fire."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 3451,
+    "word": "scheiden",
+    "type": "verb",
+    "translation": ["separate", "divorce"],
+    "eg_de": ["Ihre Eltern wollen sich scheiden lassen"],
+    "eg_en": ["Her parents want to get a divorce."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 3472,
+    "word": "Werkstatt",
+    "type": "die",
+    "translation": ["workshop", "garage"],
+    "eg_de": ["Sie stellen Tische und Stühle aus Holz in ihrer Werkstatt her."],
+    "eg_en": ["They produce wooden tables and chairs in their workshop."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 3477,
+    "word": "Toilette",
+    "type": "die",
+    "translation": ["toilet"],
+    "eg_de": ["In der Stadt gibt es mehrere öffentliche Toiletten."],
+    "eg_en": ["There are a number of public toilets in the city."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 3488,
+    "word": "Miete",
+    "type": "die",
+    "translation": ["rent"],
+    "eg_de": ["Jeden Monat müssen sie die Miete für ihre Wohnung bezahlen."],
+    "eg_en": ["Every month they have to pay the rent for their apartment."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 3601,
+    "word": "Schlange",
+    "type": "die",
+    "translation": ["snake", "line", "queue"],
+    "eg_de": ["An der Kasse ist eine lange Schlange."],
+    "eg_en": ["There’s a long line at the cash register."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 3637,
+    "word": "Teppich",
+    "type": "der",
+    "translation": ["carpet"],
+    "eg_de": ["Die Stars präsentieren sich auf dem roten Teppich."],
+    "eg_en": ["he stars present themselves on the red carpet."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 3738,
+    "word": "Schlafzimmer",
+    "type": "das",
+    "translation": ["bedroom"],
+    "eg_de": ["Unser Haus hat drei Schlafzimmer."],
+    "eg_en": ["Our house has three bedrooms."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 3771,
+    "word": "Gepäck",
+    "type": "das",
+    "translation": ["luggage"],
+    "eg_de": ["Für meine Reise brauche ich nur wenig Gepäck."],
+    "eg_en": ["I don’t need much luggage for my trip."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 3784,
+    "word": "Koch",
+    "type": "der",
+    "translation": ["cook"],
+    "eg_de": ["Mein Vater arbeitet als Koch in einem Restaurant."],
+    "eg_en": ["My father works as a cook in a restaurant."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 3785,
+    "word": "Stadtteil",
+    "type": "der",
+    "translation": ["district"],
+    "eg_de": ["Ich wohne in einem sehr schönen Stadtteil von Leipzig."],
+    "eg_en": ["I live in a very beautiful district of Leipzig."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 3872,
+    "word": "gemütlich",
+    "type": "adj",
+    "translation": ["comfortable", "cozy"],
+    "eg_de": ["Dein Bett ist so gemütlich."],
+    "eg_en": ["Your bed is so comfortable."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 3907,
+    "word": "Abendessen",
+    "type": "das",
+    "translation": ["dinner"],
+    "eg_de": ["Morgen Abend sind wir bei Susanne und Robert zum Abendessen eingeladen."],
+    "eg_en": ["Tomorrow evening we are invited to dinner with Susanne and Robert."],
+    "tag": ["2", "w1"]
+  },
+  {
+    "rank": 3947,
+    "word": "tippen",
+    "type": "verb",
+    "translation": ["tap", "type"],
+    "eg_de": ["Ich tippe den Text auf meinem Computer."],
+    "eg_en": ["I type the text on my computer."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 3960,
+    "word": "Rathaus",
+    "type": "das",
+    "translation": ["town hall", "city hall"],
+    "eg_de": ["Das Rathaus befindet sich im Zentrum der Stadt."],
+    "eg_en": ["The town hall is located in the center of the city."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 4026,
+    "word": "Balkon",
+    "type": "der",
+    "translation": ["balcony"],
+    "eg_de": ["Die Wohnung hat zwei Zimmer und einen Balkon, auf dem wir im Sommer sitzen können"],
+    "eg_en": ["The apartment has two rooms and a balcony where we can sit in summer."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 4144,
+    "word": "Lampe",
+    "type": "die",
+    "translation": ["lamp"],
+    "eg_de": ["Stefanie schaltet die Lampe neben dem Sofa an."],
+    "eg_en": ["Stefanie switches on the lamp next to the couch."],
+    "tag": ["4", "w2"]
+  },
+  {
+    "rank": 4220,
+    "word": "Terrasse",
+    "type": "die",
+    "translation": ["terrace", "patio"],
+    "eg_de": ["Wir bauen eine Terrasse an unser Haus, damit wir im Frühling draußen sitzen können."],
+    "eg_en": ["We’re building a patio next to our house so we can sit outside in the spring."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 4457,
+    "word": "anmachen",
+    "type": "verb",
+    "translation": ["turn on"],
+    "eg_de": ["Wenn es Nacht ist, mache ich das Licht an, um lesen zu können."],
+    "eg_en": ["When it’s night, I turn on the lights so I can read."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 4506,
+    "word": "Müll",
+    "type": "der",
+    "translation": ["waste", "garbage", "rubbish", "trash"],
+    "eg_de": ["Die Menschen produzieren zu viel Müll, das schadet der Umwelt."],
+    "eg_en": ["People produce too much waste, which is harmful to the environment."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 4514,
+    "word": "hinlegen",
+    "type": "verb",
+    "translation": ["lie down"],
+    "eg_de": ["Nach der Arbeit bin ich so müde, dass ich mich hinlegen muss."],
+    "eg_en": ["I’m so tired after work; I have to lie down."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 4735,
+    "word": "höflich",
+    "type": "adj",
+    "translation": ["polite"],
+    "eg_de": ["Tom fragt sehr höflich, ob er sich setzen darf."],
+    "eg_en": ["Tom asks very politely if he may sit down."],
+    "tag": ["a12","a12w3"]
+  },
+  {
+    "rank": 4762,
+    "word": "Ehemann",
+    "type": "der",
+    "translation": ["husband"],
+    "eg_de": ["Robert ist mir ein guter Ehemann."],
+    "eg_en": ["Robert is a good husband to me."],
+    "tag": ["5", "w2"]
+  },
+  {
+    "rank": 4769,
+    "word": "Ticket",
+    "type": "das",
+    "translation": ["ticket"],
+    "eg_de": ["Bevor das Stück startet, kaufen wir Tickets an der Kasse im Theater."],
+    "eg_en": ["Before the play starts, we buy tickets at the box office in the theater."],
+    "tag": ["3", "w1"]
+  },
+  {
+    "rank": 4788,
+    "word": "Altstadt",
+    "type": "die",
+    "translation": ["old town"],
+    "eg_de": ["Wir sehen uns heute die Altstadt von Dresden an"],
+    "eg_en": ["Today we visit the historical center of Dresden."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 4980,
+    "word": "Obst",
+    "type": "das",
+    "translation": ["fruit"],
+    "eg_de": ["Ich ernähre mich gesund und esse viel Obst."],
+    "eg_en": ["I eat healthy food and lots of fruit."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 10000,
+    "word": "geradeaus",
+    "type": "adv",
+    "translation": ["straight ahead"],
+    "eg_de": ["Fahr geradeaus weiter"],
+    "eg_en": ["drive straight ahead"],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 10001,
+    "word": "Ampel",
+    "type": "die",
+    "translation": ["traffic light"],
+    "eg_de": ["Die Ampel bleibt auf Grün."],
+    "eg_en": ["The traffic light remains green."],
+    "tag": ["a12w1"]
+  },
+  {
+    "rank": 10002,
+    "word": "Stadtmitte",
+    "type": "die",
+    "translation": ["downtown", "city center"],
+    "eg_de": ["Die Bibliothek ist in der Stadtmitte. (dat.)"],
+    "eg_en": ["The library is in the center of the city."],
+    "tag": ["a12", "a12w1"]
+  },
+  {
+    "rank": 10003,
+    "word": "umziehen",
+    "type": "verb",
+    "translation": ["move", "relocate"],
+    "eg_de": ["Im Januar ziehe Ich nach Deutschland um."],
+    "eg_en": ["In January I move to Germany."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 10004,
+    "word": "Erdgeschoss",
+    "type": "das",
+    "translation": ["ground floor"],
+    "eg_de": ["Das Erdgeschoss stand unter Wasser."],
+    "eg_en": ["The ground floor was flooded."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 10005,
+    "word": "Nebenkosten",
+    "type": "die",
+    "translation": ["utilities", "additional costs", "ancillary costs"],
+    "eg_de": ["Es kostet $300 die Woche inklusive Nebenkosten"],
+    "eg_en": ["It’s $300 a week including bills"],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 10006,
+    "word": "Vermieter",
+    "type": "der",
+    "translation": ["landlord"],
+    "eg_de": ["Tom freute sich, dass sein Vermieter die Miete senkte."],
+    "eg_en": ["Tom was happy that his landlord lowered the rent."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 10007,
+    "word": "abbiegen",
+    "type": "verb",
+    "translation": ["turn"],
+    "eg_de": ["Er wollte, dass der Taxifahrer links abbiegt."],
+    "eg_en": ["He wanted the taxi driver to turn left."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 10008,
+    "word": "Jugendherberge",
+    "type": "die",
+    "translation": ["youth hostel", "hostel"],
+    "eg_de": ["Is there a youth hostel near here?"],
+    "eg_en": ["Gibt es hier in der Nähe eine Jugendherberge?"],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 10009,
+    "word": "möblieren",
+    "type": "verb",
+    "translation": ["furnish"],
+    "eg_de": ["Ich brauche einen Tisch und Stühle, um mein Haus fertig zu möblieren."],
+    "eg_en": ["I need a table and chairs to finish furnishing my house."],
+    "tag": ["a12","a12w1"]
+  },
+  {
+    "rank": 10010,
+    "word": "Reisebüro",
+    "type": "der",
+    "translation": ["travel agency", "tourist agency"],
+    "eg_de": ["Das Reisebüro chartert Flüge für seine Kunden."],
+    "eg_en": ["The travel agency charters flights for its customers."],
+    "tag": ["a12","a12w2"]
+  },
+  {
+    "rank": 10011,
+    "word": "Briefmarke",
+    "type": "die",
+    "translation": ["stamp"],
+    "eg_de": ["Der Mann klebte eine Briefmarke auf den Umschlag, bevor er den Brief einwarf."],
+    "eg_en": ["The man put a stamp on the envelope before mailing the letter."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 10012,
+    "word": "abfahren",
+    "type": "verb",
+    "translation": ["depart", "drive off"],
+    "eg_de": ["Mein Zug wird in Kürze vom Bahnsteig abfahren"],
+    "eg_en": ["My train will be departing from the platform soon"],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 10013,
+    "word": "ankommen",
+    "type": "verb",
+    "translation": ["arrive", "approach"],
+    "eg_de": ["Die Lieferung ist rechtzeitig angekommen."],
+    "eg_en": ["The delivery arrived on time."],
+    "tag": ["a12","a12w2"],
+    "context": null,
+    "extra": null
+  },
+  {
+    "rank": 10014,
+    "word": "Geheimzahl",
+    "type": "die",
+    "translation": ["secret code", "pin code"],
+    "eg_de": ["Ein paar Tage später bekommen Sie per Post eine Geheimzahl für Ihre Karte"],
+    "eg_en": ["A few days later you will receive a secret code for your card by mail"],
+    "tag": ["b11","b11w2"],
+    "context": null,
+    "extra": null
+  }
+
+]
